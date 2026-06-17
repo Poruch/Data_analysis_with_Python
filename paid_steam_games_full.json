@@ -1,0 +1,5970 @@
+[
+    {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 30,
+        "name": "Day of Defeat",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 40,
+        "name": "Deathmatch Classic",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 50,
+        "name": "Half-Life: Opposing Force",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Gearbox Software",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 70,
+        "name": "Half-Life",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 100,
+        "name": "Counter-Strike: Condition Zero",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 130,
+        "name": "Half-Life: Blue Shift",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Gearbox Software",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 220,
+        "name": "Half-Life 2",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 280,
+        "name": "Half-Life: Source",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 300,
+        "name": "Day of Defeat: Source",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 360,
+        "name": "Half-Life Deathmatch: Source",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 380,
+        "name": "Half-Life 2: Episode One",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 400,
+        "name": "Portal",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 420,
+        "name": "Half-Life 2: Episode Two",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 500,
+        "name": "Left 4 Dead",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 620,
+        "name": "Portal 2",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 1250,
+        "name": "Killing Floor",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Tripwire Interactive",
+        "publisher": "Tripwire Interactive"
+    },
+    {
+        "appid": 2100,
+        "name": "Dark Messiah of Might & Magic",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Arkane Studios",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 2280,
+        "name": "DOOM + DOOM II",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "id Software, Nightdive Studios",
+        "publisher": "Bethesda"
+    },
+    {
+        "appid": 2310,
+        "name": "Quake",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "id Software, Nightdive Studios, MachineGames",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 2630,
+        "name": "Call of Duty 2",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Infinity Ward",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 3590,
+        "name": "Plants vs. Zombies GOTY Edition",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "PopCap Games, Inc.",
+        "publisher": "PopCap Games, Inc., Electronic Arts"
+    },
+    {
+        "appid": 3910,
+        "name": "Sid Meier's Civilization III Complete",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Firaxis Games",
+        "publisher": "2K"
+    },
+    {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "price_cents": 499,
+        "initialprice_cents": 999,
+        "developer": "Facepunch Studios",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 4500,
+        "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "GSC Game World",
+        "publisher": "GSC Game World"
+    },
+    {
+        "appid": 4560,
+        "name": "Company of Heroes - Legacy Edition",
+        "price_cents": 3699,
+        "initialprice_cents": 3699,
+        "developer": "Relic Entertainment",
+        "publisher": "SEGA"
+    },
+    {
+        "appid": 4570,
+        "name": "Warhammer 40,000: Dawn of War - Anniversary Edition (Classic)",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Relic Entertainment",
+        "publisher": "Relic Entertainment"
+    },
+    {
+        "appid": 4700,
+        "name": "Total War: MEDIEVAL II – Definitive Edition",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "SEGA, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 4920,
+        "name": "Natural Selection 2",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Unknown Worlds Entertainment",
+        "publisher": "Unknown Worlds Entertainment, KRAFTON, Inc."
+    },
+    {
+        "appid": 6000,
+        "name": "STAR WARS Republic Commando",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "LucasArts",
+        "publisher": "LucasArts, Lucasfilm, Disney"
+    },
+    {
+        "appid": 6060,
+        "name": "STAR WARS Battlefront II (Classic, 2005)",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Pandemic Studios",
+        "publisher": "Lucasfilm, LucasArts, Disney"
+    },
+    {
+        "appid": 6850,
+        "name": "Hitman 2: Silent Assassin",
+        "price_cents": 899,
+        "initialprice_cents": 899,
+        "developer": "Io-Interactive A/S",
+        "publisher": "Io-Interactive A/S"
+    },
+    {
+        "appid": 6860,
+        "name": "Hitman: Blood Money",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Io-Interactive A/S",
+        "publisher": "Io-Interactive A/S"
+    },
+    {
+        "appid": 6880,
+        "name": "Just Cause",
+        "price_cents": 699,
+        "initialprice_cents": 699,
+        "developer": "Avalanche Studios",
+        "publisher": "Square Enix"
+    },
+    {
+        "appid": 6910,
+        "name": "Deus Ex: Game of the Year Edition",
+        "price_cents": 699,
+        "initialprice_cents": 699,
+        "developer": "Ion Storm",
+        "publisher": "Eidos Interactive Corp."
+    },
+    {
+        "appid": 7670,
+        "name": "BioShock",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "2K Boston, 2K Australia",
+        "publisher": "2K"
+    },
+    {
+        "appid": 7940,
+        "name": "Call of Duty 4: Modern Warfare (2007)",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Infinity Ward",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 8190,
+        "name": "Just Cause 2",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Avalanche Studios",
+        "publisher": "Square Enix"
+    },
+    {
+        "appid": 8850,
+        "name": "BioShock 2",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "2K Marin, 2K China, Digital Extremes, 2K Australia",
+        "publisher": "2K"
+    },
+    {
+        "appid": 8870,
+        "name": "BioShock Infinite",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Irrational Games, Virtual Programming (Linux)",
+        "publisher": "2K"
+    },
+    {
+        "appid": 8930,
+        "name": "Sid Meier's Civilization V",
+        "price_cents": 749,
+        "initialprice_cents": 2999,
+        "developer": "Firaxis Games, Aspyr (Mac), Aspyr (Linux)",
+        "publisher": "2K, Aspyr (Mac), Aspyr (Linux)"
+    },
+    {
+        "appid": 8980,
+        "name": "Borderlands Game of the Year",
+        "price_cents": 989,
+        "initialprice_cents": 2999,
+        "developer": "Gearbox Software",
+        "publisher": "2K"
+    },
+    {
+        "appid": 9010,
+        "name": "Return to Castle Wolfenstein",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Gray Matter Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 9340,
+        "name": "Company of Heroes: Opposing Fronts",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Relic Entertainment",
+        "publisher": "SEGA"
+    },
+    {
+        "appid": 9480,
+        "name": "Saints Row 2",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Volition",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 10090,
+        "name": "Call of Duty: World at War",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Treyarch",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 10180,
+        "name": "Call of Duty: Modern Warfare 2 (2009)",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Infinity Ward",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 10190,
+        "name": "Call of Duty: Modern Warfare 2 (2009)",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Infinity Ward",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 10500,
+        "name": "Total War: EMPIRE – Definitive Edition",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "SEGA, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 10680,
+        "name": "Aliens vs. Predator",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Rebellion",
+        "publisher": "SEGA"
+    },
+    {
+        "appid": 12200,
+        "name": "Bully: Scholarship Edition",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Rockstar New England",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 12210,
+        "name": "Grand Theft Auto IV: The Complete Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Rockstar North, Rockstar Toronto",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 13520,
+        "name": "Far Cry",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Crytek Studios",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 15100,
+        "name": "Assassin's Creed: Director's Cut Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 15620,
+        "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition (Classic)",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Relic Entertainment, Feral Interactive (Mac/Linux)",
+        "publisher": "Relic Entertainment, Feral Interactive (Mac/Linux)"
+    },
+    {
+        "appid": 17300,
+        "name": "Crysis",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Crytek",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 17330,
+        "name": "Crysis Warhead",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Crytek",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 17390,
+        "name": "SPORE",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Maxis™",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 17410,
+        "name": "Mirror's Edge",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "DICE",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 17460,
+        "name": "Mass Effect (2007)",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "BioWare",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 17470,
+        "name": "Dead Space (2008)",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "EA Redwood Shores",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 17480,
+        "name": "Command & Conquer: Red Alert 3",
+        "price_cents": 1988,
+        "initialprice_cents": 1988,
+        "developer": "EA Los Angeles",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 19900,
+        "name": "Far Cry 2",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 20900,
+        "name": "The Witcher: Enhanced Edition Director's Cut",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "CD PROJEKT RED",
+        "publisher": "CD PROJEKT RED, 1C-SoftClub"
+    },
+    {
+        "appid": 20920,
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "CD PROJEKT RED",
+        "publisher": "CD PROJEKT RED, 1C-SoftClub"
+    },
+    {
+        "appid": 21690,
+        "name": "Resident Evil 5",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "Capcom",
+        "publisher": "Capcom"
+    },
+    {
+        "appid": 22320,
+        "name": "The Elder Scrolls III: Morrowind Game of the Year Edition",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 22330,
+        "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition (2009)",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 22370,
+        "name": "Fallout 3: Game of the Year Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 22380,
+        "name": "Fallout: New Vegas",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Obsidian Entertainment",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 24010,
+        "name": "Train Simulator Classic",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Dovetail Games",
+        "publisher": "Dovetail Games - Trains, Dovetail Games"
+    },
+    {
+        "appid": 24240,
+        "name": "PAYDAY The Heist",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "OVERKILL - a Starbreeze Studio.",
+        "publisher": "Starbreeze Entertainment"
+    },
+    {
+        "appid": 26800,
+        "name": "Braid",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Number None",
+        "publisher": "Number None"
+    },
+    {
+        "appid": 32370,
+        "name": "STAR WARS Knights of the Old Republic",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "BioWare, Aspyr (Mac)",
+        "publisher": "LucasArts, Aspyr (Mac), Disney, Lucasfilm"
+    },
+    {
+        "appid": 32430,
+        "name": "STAR WARS - The Force Unleashed Ultimate Sith Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "LucasArts",
+        "publisher": "LucasArts, Lucasfilm, Disney"
+    },
+    {
+        "appid": 33230,
+        "name": "Assassin's Creed 2",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 33900,
+        "name": "Arma 2",
+        "price_cents": 1299,
+        "initialprice_cents": 1299,
+        "developer": "Bohemia Interactive",
+        "publisher": "Bohemia Interactive"
+    },
+    {
+        "appid": 33930,
+        "name": "Arma 2: Operation Arrowhead",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Bohemia Interactive",
+        "publisher": "Bohemia Interactive"
+    },
+    {
+        "appid": 34030,
+        "name": "Total War: NAPOLEON – Definitive Edition",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive (Mac)",
+        "publisher": "SEGA, Feral Interactive (Mac)"
+    },
+    {
+        "appid": 34330,
+        "name": "Total War: SHOGUN 2",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "SEGA, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 34440,
+        "name": "Sid Meier's Civilization IV",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Firaxis Games",
+        "publisher": "2K"
+    },
+    {
+        "appid": 34460,
+        "name": "Civilization IV: Beyond the Sword",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Firaxis Games",
+        "publisher": "2K"
+    },
+    {
+        "appid": 35140,
+        "name": "Batman: Arkham Asylum Game of the Year Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Rocksteady Studios",
+        "publisher": "WB Games"
+    },
+    {
+        "appid": 35450,
+        "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Tripwire Interactive",
+        "publisher": "Tripwire Interactive"
+    },
+    {
+        "appid": 35700,
+        "name": "Trine Enchanted Edition",
+        "price_cents": 299,
+        "initialprice_cents": 1499,
+        "developer": "Frozenbyte",
+        "publisher": "Frozenbyte"
+    },
+    {
+        "appid": 35720,
+        "name": "Trine 2: Complete Story",
+        "price_cents": 399,
+        "initialprice_cents": 1999,
+        "developer": "Frozenbyte",
+        "publisher": "Frozenbyte"
+    },
+    {
+        "appid": 39140,
+        "name": "FINAL FANTASY VII",
+        "price_cents": 1199,
+        "initialprice_cents": 1199,
+        "developer": "Square Enix",
+        "publisher": "Square Enix"
+    },
+    {
+        "appid": 39210,
+        "name": "FINAL FANTASY XIV Online",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Square Enix",
+        "publisher": "Square Enix"
+    },
+    {
+        "appid": 39500,
+        "name": "Gothic 3",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Piranha Bytes",
+        "publisher": "THQ Nordic"
+    },
+    {
+        "appid": 40800,
+        "name": "Super Meat Boy",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Team Meat",
+        "publisher": ""
+    },
+    {
+        "appid": 40990,
+        "name": "Mafia",
+        "price_cents": 494,
+        "initialprice_cents": 1499,
+        "developer": "Illusion Softworks",
+        "publisher": "2K"
+    },
+    {
+        "appid": 41000,
+        "name": "Serious Sam HD: The First Encounter",
+        "price_cents": 299,
+        "initialprice_cents": 1499,
+        "developer": "Croteam",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 41070,
+        "name": "Serious Sam 3: BFE",
+        "price_cents": 299,
+        "initialprice_cents": 2999,
+        "developer": "Croteam",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 41500,
+        "name": "Torchlight",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Runic Games",
+        "publisher": "XD"
+    },
+    {
+        "appid": 42680,
+        "name": "Call of Duty: Modern Warfare 3 (2011)",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Infinity Ward, Sledgehammer Games",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 42700,
+        "name": "Call of Duty: Black Ops",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Treyarch",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 42710,
+        "name": "Call of Duty: Black Ops",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Treyarch",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 42910,
+        "name": "Magicka",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Arrowhead Game Studios",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 47790,
+        "name": "Medal of Honor",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Electronic Arts",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 47810,
+        "name": "Dragon Age: Origins - Ultimate Edition",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "BioWare",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 47830,
+        "name": "Medal of Honor",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Electronic Arts",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 47890,
+        "name": "The Sims 3",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "The Sims Studio, Maxis",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 48000,
+        "name": "LIMBO",
+        "price_cents": 124,
+        "initialprice_cents": 1249,
+        "developer": "Playdead",
+        "publisher": "Playdead"
+    },
+    {
+        "appid": 48190,
+        "name": "Assassin’s Creed Brotherhood",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 48700,
+        "name": "Mount & Blade: Warband",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "TaleWorlds Entertainment",
+        "publisher": "TaleWorlds Entertainment"
+    },
+    {
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "Gearbox Software, Aspyr (Mac), Aspyr (Linux)",
+        "publisher": "2K, Aspyr (Mac), Aspyr (Linux)"
+    },
+    {
+        "appid": 50130,
+        "name": "Mafia II (Classic)",
+        "price_cents": 599,
+        "initialprice_cents": 2999,
+        "developer": "2K Czech",
+        "publisher": "2K"
+    },
+    {
+        "appid": 50620,
+        "name": "Darksiders",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Vigil Games",
+        "publisher": "THQ Nordic"
+    },
+    {
+        "appid": 55100,
+        "name": "Homefront",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Kaos Studios, Digital Extremes",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 55110,
+        "name": "Red Faction: Armageddon",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Volition",
+        "publisher": "Deep Silver "
+    },
+    {
+        "appid": 55150,
+        "name": "Warhammer 40,000: Space Marine - Anniversary Edition",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Relic Entertainment",
+        "publisher": "Relic Entertainment"
+    },
+    {
+        "appid": 55230,
+        "name": "Saints Row: The Third",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Volition",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 57300,
+        "name": "Amnesia: The Dark Descent",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Frictional Games",
+        "publisher": "Frictional Games"
+    },
+    {
+        "appid": 57690,
+        "name": "Tropico 4",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Haemimont Games",
+        "publisher": "Kalypso Media Digital"
+    },
+    {
+        "appid": 65790,
+        "name": "ARMA: Cold War Assault",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Bohemia Interactive",
+        "publisher": "Bohemia Interactive"
+    },
+    {
+        "appid": 65800,
+        "name": "Dungeon Defenders",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Chromatic Games",
+        "publisher": "Chromatic Games"
+    },
+    {
+        "appid": 65930,
+        "name": "The Bureau: XCOM Declassified",
+        "price_cents": 399,
+        "initialprice_cents": 1999,
+        "developer": "2K Marin",
+        "publisher": "2K"
+    },
+    {
+        "appid": 65980,
+        "name": "Sid Meier's Civilization: Beyond Earth",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Firaxis Games, Aspyr (Mac), Aspyr (Linux)",
+        "publisher": "2K, Aspyr (Mac), Aspyr (Linux)"
+    },
+    {
+        "appid": 67370,
+        "name": "The Darkness II",
+        "price_cents": 299,
+        "initialprice_cents": 2999,
+        "developer": "Digital Extremes",
+        "publisher": "2K"
+    },
+    {
+        "appid": 72850,
+        "name": "The Elder Scrolls V: Skyrim",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 96000,
+        "name": "The Tiny Bang Story",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Colibri Games",
+        "publisher": "Colibri Games"
+    },
+    {
+        "appid": 96100,
+        "name": "Defy Gravity Extended",
+        "price_cents": 199,
+        "initialprice_cents": 199,
+        "developer": "Paul Fisch",
+        "publisher": "Fish Factory Games"
+    },
+    {
+        "appid": 102600,
+        "name": "Orcs Must Die!",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Robot Entertainment",
+        "publisher": "Robot Entertainment"
+    },
+    {
+        "appid": 105600,
+        "name": "Terraria",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Re-Logic",
+        "publisher": "Re-Logic"
+    },
+    {
+        "appid": 107100,
+        "name": "Bastion",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Supergiant Games",
+        "publisher": "Supergiant Games"
+    },
+    {
+        "appid": 107410,
+        "name": "Arma 3",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Bohemia Interactive",
+        "publisher": "Bohemia Interactive"
+    },
+    {
+        "appid": 108600,
+        "name": "Project Zomboid",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "The Indie Stone",
+        "publisher": "The Indie Stone"
+    },
+    {
+        "appid": 108710,
+        "name": "Alan Wake",
+        "price_cents": 149,
+        "initialprice_cents": 1499,
+        "developer": "Remedy Entertainment",
+        "publisher": "Remedy Entertainment"
+    },
+    {
+        "appid": 108800,
+        "name": "Crysis 2 - Maximum Edition",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Crytek Studios",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 110800,
+        "name": "L.A. Noire",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Team Bondi, Rockstar Leeds",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 113020,
+        "name": "Monaco: What's Yours Is Mine",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Pocketwatch Games",
+        "publisher": "Balor Games"
+    },
+    {
+        "appid": 113200,
+        "name": "The Binding of Isaac",
+        "price_cents": 174,
+        "initialprice_cents": 499,
+        "developer": "Edmund McMillen, Florian Himsl",
+        "publisher": "Edmund McMillen"
+    },
+    {
+        "appid": 115300,
+        "name": "Call of Duty: Modern Warfare 3 (2011)",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Infinity Ward, Sledgehammer Games",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 200260,
+        "name": "Batman: Arkham City - Game of the Year Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Rocksteady Studios",
+        "publisher": "WB Games"
+    },
+    {
+        "appid": 200510,
+        "name": "XCOM: Enemy Unknown",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Firaxis Games, Feral Interactive (Linux)",
+        "publisher": "2K, Feral Interactive (Linux)"
+    },
+    {
+        "appid": 200710,
+        "name": "Torchlight II",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Runic Games",
+        "publisher": "XD"
+    },
+    {
+        "appid": 201270,
+        "name": "Total War: SHOGUN 2",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "SEGA, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 201790,
+        "name": "Orcs Must Die! 2",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Robot Entertainment",
+        "publisher": "Robot Entertainment"
+    },
+    {
+        "appid": 201810,
+        "name": "Wolfenstein: The New Order",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "MachineGames",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 202750,
+        "name": "Alan Wake's American Nightmare",
+        "price_cents": 89,
+        "initialprice_cents": 899,
+        "developer": "Remedy Entertainment",
+        "publisher": "Remedy Entertainment"
+    },
+    {
+        "appid": 202970,
+        "name": "Call of Duty: Black Ops II",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Treyarch",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 202990,
+        "name": "Call of Duty: Black Ops II",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Treyarch",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 203140,
+        "name": "Hitman: Absolution",
+        "price_cents": 199,
+        "initialprice_cents": 1999,
+        "developer": "Io-Interactive A/S",
+        "publisher": "Io-Interactive A/S"
+    },
+    {
+        "appid": 203160,
+        "name": "Tomb Raider Game of the Year",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Crystal Dynamics, Eidos-Montréal, Feral Interactive (Mac), Nixxes",
+        "publisher": "Crystal Dynamics, Feral Interactive (Mac)"
+    },
+    {
+        "appid": 204100,
+        "name": "Max Payne 3",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Rockstar Studios",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 204300,
+        "name": "Awesomenauts",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ronimo Games",
+        "publisher": "Atari"
+    },
+    {
+        "appid": 204340,
+        "name": "Serious Sam II",
+        "price_cents": 99,
+        "initialprice_cents": 999,
+        "developer": "Croteam",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 204360,
+        "name": "Castle Crashers",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "The Behemoth",
+        "publisher": "The Behemoth"
+    },
+    {
+        "appid": 204450,
+        "name": "Call of Juarez: Gunslinger",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Techland",
+        "publisher": "Techland Publishing"
+    },
+    {
+        "appid": 204880,
+        "name": "Sins of a Solar Empire: Rebellion",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ironclad Games Corporation, Stardock Entertainment",
+        "publisher": "Stardock Entertainment"
+    },
+    {
+        "appid": 205100,
+        "name": "Dishonored",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Arkane Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 206420,
+        "name": "Saints Row IV: Re-Elected",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Deep Silver Volition",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 206440,
+        "name": "To the Moon",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Freebird Games",
+        "publisher": "Freebird Games, Serenity Forge"
+    },
+    {
+        "appid": 207140,
+        "name": "SpeedRunners",
+        "price_cents": 299,
+        "initialprice_cents": 1499,
+        "developer": "DoubleDutch Games",
+        "publisher": "tinyBuild"
+    },
+    {
+        "appid": 207610,
+        "name": "The Walking Dead",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Telltale Games",
+        "publisher": "Skybound Games"
+    },
+    {
+        "appid": 208140,
+        "name": "ENDLESS Space - Definitive Edition",
+        "price_cents": 249,
+        "initialprice_cents": 999,
+        "developer": "AMPLITUDE Studios",
+        "publisher": "AMPLITUDE Studios"
+    },
+    {
+        "appid": 208580,
+        "name": "STAR WARS Knights of the Old Republic II - The Sith Lords",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Obsidian Entertainment, Aspyr (Mac, Linux, & Windows Update)",
+        "publisher": "LucasArts, Lucasfilm, Aspyr (Mac, Linux)"
+    },
+    {
+        "appid": 208650,
+        "name": "Batman: Arkham Knight",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Rocksteady Studios",
+        "publisher": "WB Games"
+    },
+    {
+        "appid": 209000,
+        "name": "Batman: Arkham Origins",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "WB Games Montreal, Splash Damage",
+        "publisher": "Warner Bros. Interactive Entertainment"
+    },
+    {
+        "appid": 209080,
+        "name": "Guns of Icarus Online",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Muse Games",
+        "publisher": "Muse Games"
+    },
+    {
+        "appid": 210770,
+        "name": "Sanctum 2",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Coffee Stain Studios",
+        "publisher": "Coffee Stain Publishing"
+    },
+    {
+        "appid": 211820,
+        "name": "Starbound",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Chucklefish",
+        "publisher": "Chucklefish"
+    },
+    {
+        "appid": 212680,
+        "name": "FTL: Faster Than Light",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Subset Games",
+        "publisher": "Subset Games"
+    },
+    {
+        "appid": 213670,
+        "name": "South Park: The Stick of Truth",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Obsidian Entertainment",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 214490,
+        "name": "Alien: Isolation",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Creative Assembly, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "SEGA, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 214560,
+        "name": "Mark of the Ninja",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Klei Entertainment",
+        "publisher": "Microsoft Studios"
+    },
+    {
+        "appid": 214950,
+        "name": "Total War: ROME II - Emperor Edition",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive",
+        "publisher": "SEGA, Feral Interactive"
+    },
+    {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "OVERKILL - a Starbreeze Studio.",
+        "publisher": "Starbreeze Entertainment"
+    },
+    {
+        "appid": 219150,
+        "name": "Hotline Miami",
+        "price_cents": 99,
+        "initialprice_cents": 999,
+        "developer": "Dennaton Games",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 219640,
+        "name": "Chivalry: Medieval Warfare",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Torn Banner Studios",
+        "publisher": "Torn Banner Studios"
+    },
+    {
+        "appid": 219740,
+        "name": "Don't Starve",
+        "price_cents": 249,
+        "initialprice_cents": 999,
+        "developer": "Klei Entertainment",
+        "publisher": "Klei Entertainment"
+    },
+    {
+        "appid": 219990,
+        "name": "Grim Dawn",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Crate Entertainment",
+        "publisher": "Crate Entertainment"
+    },
+    {
+        "appid": 220200,
+        "name": "Kerbal Space Program",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Squad",
+        "publisher": "Private Division"
+    },
+    {
+        "appid": 220240,
+        "name": "Far Cry 3",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 220440,
+        "name": "DmC: Devil May Cry",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Ninja Theory",
+        "publisher": "Capcom"
+    },
+    {
+        "appid": 221040,
+        "name": "Resident Evil 6",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "Capcom",
+        "publisher": "Capcom"
+    },
+    {
+        "appid": 221100,
+        "name": "DayZ",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Bohemia Interactive",
+        "publisher": "Bohemia Interactive"
+    },
+    {
+        "appid": 221380,
+        "name": "Age of Empires II (Retired)",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Skybox Labs, Hidden Path Entertainment, Ensemble Studios, Forgotten Empires",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 221910,
+        "name": "The Stanley Parable",
+        "price_cents": 749,
+        "initialprice_cents": 1499,
+        "developer": "Galactic Cafe",
+        "publisher": "Galactic Cafe, Klei Publishing"
+    },
+    {
+        "appid": 222880,
+        "name": "Insurgency",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "New World Interactive",
+        "publisher": "New World Interactive"
+    },
+    {
+        "appid": 224760,
+        "name": "FEZ",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Polytron Corporation",
+        "publisher": "Trapdoor"
+    },
+    {
+        "appid": 225080,
+        "name": "Brothers - A Tale of Two Sons",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Starbreeze Studios AB",
+        "publisher": "505 Games"
+    },
+    {
+        "appid": 225260,
+        "name": "Brutal Legend",
+        "price_cents": 299,
+        "initialprice_cents": 1499,
+        "developer": "Double Fine Productions",
+        "publisher": "Double Fine Productions, Xbox Game Studios"
+    },
+    {
+        "appid": 225540,
+        "name": "Just Cause 3",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Avalanche Studios",
+        "publisher": "Square Enix"
+    },
+    {
+        "appid": 226840,
+        "name": "Age of Wonders III",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Triumph Studios",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "SCS Software",
+        "publisher": "SCS Software"
+    },
+    {
+        "appid": 228200,
+        "name": "Company of Heroes",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Relic Entertainment",
+        "publisher": "Relic Entertainment"
+    },
+    {
+        "appid": 228280,
+        "name": "Baldur's Gate: Enhanced Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Beamdog",
+        "publisher": "Beamdog"
+    },
+    {
+        "appid": 228380,
+        "name": "Wreckfest",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Bugbear",
+        "publisher": "THQ Nordic"
+    },
+    {
+        "appid": 231430,
+        "name": "Company of Heroes 2",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Relic Entertainment, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "Relic Entertainment, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 232050,
+        "name": "Eador. Masters of the Broken World",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Snowbird Games",
+        "publisher": "Snowbird Games"
+    },
+    {
+        "appid": 232090,
+        "name": "Killing Floor 2",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Tripwire Interactive",
+        "publisher": "Tripwire Interactive"
+    },
+    {
+        "appid": 232890,
+        "name": "Stronghold Crusader 2",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Firefly Studios",
+        "publisher": "Firefly Studios"
+    },
+    {
+        "appid": 233130,
+        "name": "Shadow Warrior",
+        "price_cents": 299,
+        "initialprice_cents": 2999,
+        "developer": "Flying Wild Hog",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 233450,
+        "name": "Prison Architect",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Introversion Software, Double Eleven",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 233720,
+        "name": "Surgeon Simulator",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Bossa Studios",
+        "publisher": "Infogrames, Atari"
+    },
+    {
+        "appid": 233860,
+        "name": "Kenshi",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Lo-Fi Games",
+        "publisher": "Lo-Fi Games"
+    },
+    {
+        "appid": 234140,
+        "name": "Mad Max",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Avalanche Studios",
+        "publisher": "Warner Bros. Games, Warner Bros. Interactive Entertainment"
+    },
+    {
+        "appid": 234650,
+        "name": "Shadowrun Returns",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Harebrained Schemes",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 235460,
+        "name": "METAL GEAR RISING: REVENGEANCE",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "PlatinumGames",
+        "publisher": "KONAMI"
+    },
+    {
+        "appid": 235600,
+        "name": "Tom Clancy’s Splinter Cell Blacklist",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ubisoft Toronto",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 236850,
+        "name": "Europa Universalis IV",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Paradox Development Studio, Paradox Tinto",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 237930,
+        "name": "Transistor",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Supergiant Games",
+        "publisher": "Supergiant Games"
+    },
+    {
+        "appid": 238010,
+        "name": "Deus Ex: Human Revolution - Director's Cut",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Eidos Montreal",
+        "publisher": "Eidos Interactive Corp."
+    },
+    {
+        "appid": 238090,
+        "name": "Sniper Elite 3",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Rebellion",
+        "publisher": "Rebellion"
+    },
+    {
+        "appid": 238320,
+        "name": "Outlast",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Red Barrels",
+        "publisher": "Red Barrels"
+    },
+    {
+        "appid": 238370,
+        "name": "Magicka 2",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Pieces Interactive",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 238460,
+        "name": "BattleBlock Theater",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "The Behemoth",
+        "publisher": "The Behemoth"
+    },
+    {
+        "appid": 239030,
+        "name": "Papers, Please",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Lucas Pope",
+        "publisher": "3909"
+    },
+    {
+        "appid": 239140,
+        "name": "Dying Light",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Techland",
+        "publisher": "Techland"
+    },
+    {
+        "appid": 239160,
+        "name": "Thief",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Eidos-Montréal, Feral Interactive (Mac)",
+        "publisher": "Eidos Interactive Corp., Feral Interactive (Mac)"
+    },
+    {
+        "appid": 239350,
+        "name": "Spelunky",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Mossmouth",
+        "publisher": "Mossmouth"
+    },
+    {
+        "appid": 239820,
+        "name": "Game Dev Tycoon",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Greenheart Games",
+        "publisher": "Greenheart Games"
+    },
+    {
+        "appid": 240720,
+        "name": "Getting Over It with Bennett Foddy",
+        "price_cents": 799,
+        "initialprice_cents": 799,
+        "developer": "Bennett Foddy",
+        "publisher": "Bennett Foddy"
+    },
+    {
+        "appid": 241930,
+        "name": "Middle-earth: Shadow of Mordor",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Monolith Productions",
+        "publisher": "Warner Bros. Interactive Entertainment, Warner Bros. Games"
+    },
+    {
+        "appid": 242050,
+        "name": "Assassin’s Creed IV Black Flag",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 242760,
+        "name": "The Forest",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Endnight Games Ltd",
+        "publisher": "Endnight Games Ltd"
+    },
+    {
+        "appid": 242860,
+        "name": "Verdun",
+        "price_cents": 1199,
+        "initialprice_cents": 5999,
+        "developer": "BlackMill Games",
+        "publisher": "BlackMill Games"
+    },
+    {
+        "appid": 242920,
+        "name": "Banished",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Shining Rock Software LLC",
+        "publisher": "Shining Rock Software LLC"
+    },
+    {
+        "appid": 243470,
+        "name": "Watch_Dogs",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ubisoft",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 244210,
+        "name": "Assetto Corsa",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "Kunos Simulazioni",
+        "publisher": "Kunos Simulazioni"
+    },
+    {
+        "appid": 244850,
+        "name": "Space Engineers",
+        "price_cents": 999,
+        "initialprice_cents": 1999,
+        "developer": "Keen Software House",
+        "publisher": "Keen Software House"
+    },
+    {
+        "appid": 245170,
+        "name": "Skullgirls 2nd Encore",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Hidden Variable Studios",
+        "publisher": "Autumn Games"
+    },
+    {
+        "appid": 245620,
+        "name": "Tropico 5",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Haemimont Games",
+        "publisher": "Kalypso Media Digital"
+    },
+    {
+        "appid": 246620,
+        "name": "Plague Inc: Evolved",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Ndemic Creations",
+        "publisher": "Ndemic Creations"
+    },
+    {
+        "appid": 246900,
+        "name": "Viscera Cleanup Detail",
+        "price_cents": 1299,
+        "initialprice_cents": 1299,
+        "developer": "RuneStorm",
+        "publisher": "RuneStorm"
+    },
+    {
+        "appid": 247080,
+        "name": "Crypt of the NecroDancer",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Brace Yourself Games",
+        "publisher": "Brace Yourself Games, Klei Entertainment"
+    },
+    {
+        "appid": 249130,
+        "name": "LEGO Marvel Super Heroes",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Traveller's Tales",
+        "publisher": "Warner Bros. Interactive Entertainment"
+    },
+    {
+        "appid": 250400,
+        "name": "How to Survive",
+        "price_cents": 374,
+        "initialprice_cents": 1499,
+        "developer": "Eko Software",
+        "publisher": "505 Games"
+    },
+    {
+        "appid": 250900,
+        "name": "The Binding of Isaac: Rebirth",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Nicalis, Inc., Edmund McMillen",
+        "publisher": "Nicalis, Inc."
+    },
+    {
+        "appid": 251060,
+        "name": "Wargame: Red Dragon",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Eugen Systems",
+        "publisher": "Eugen Systems"
+    },
+    {
+        "appid": 251570,
+        "name": "7 Days to Die",
+        "price_cents": 4499,
+        "initialprice_cents": 4499,
+        "developer": "The Fun Pimps",
+        "publisher": "The Fun Pimps Entertainment LLC"
+    },
+    {
+        "appid": 252130,
+        "name": "Divide By Sheep",
+        "price_cents": 99,
+        "initialprice_cents": 499,
+        "developer": "Victor Solodilov, Denis Novikov",
+        "publisher": "tinyBuild"
+    },
+    {
+        "appid": 252490,
+        "name": "Rust",
+        "price_cents": 1999,
+        "initialprice_cents": 3999,
+        "developer": "Facepunch Studios",
+        "publisher": "Facepunch Studios"
+    },
+    {
+        "appid": 253900,
+        "name": "Knights and Merchants",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Topware Interactive",
+        "publisher": "Topware Interactive"
+    },
+    {
+        "appid": 253960,
+        "name": "Jack Orlando: Director's Cut",
+        "price_cents": 699,
+        "initialprice_cents": 699,
+        "developer": "Toontraxx Studios",
+        "publisher": "Topware Interactive"
+    },
+    {
+        "appid": 253980,
+        "name": "Enclave",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Starbreeze",
+        "publisher": "Topware Interactive"
+    },
+    {
+        "appid": 254700,
+        "name": "Resident Evil 4 (2005)",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "Capcom",
+        "publisher": "Capcom"
+    },
+    {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "price_cents": 899,
+        "initialprice_cents": 2999,
+        "developer": "Colossal Order",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 257350,
+        "name": "Baldur's Gate II: Enhanced Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Beamdog",
+        "publisher": "Beamdog"
+    },
+    {
+        "appid": 257510,
+        "name": "The Talos Principle",
+        "price_cents": 449,
+        "initialprice_cents": 2999,
+        "developer": "Croteam",
+        "publisher": "Devolver Digital, Croteam"
+    },
+    {
+        "appid": 261030,
+        "name": "The Walking Dead: Season Two",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Telltale Games",
+        "publisher": "Skybound Games"
+    },
+    {
+        "appid": 261110,
+        "name": "Killer is Dead - Nightmare Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "KADOKAWA GAMES / GRASSHOPPER MANUFACTURE",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "TaleWorlds Entertainment",
+        "publisher": "TaleWorlds Entertainment"
+    },
+    {
+        "appid": 261640,
+        "name": "Borderlands: The Pre-Sequel",
+        "price_cents": 399,
+        "initialprice_cents": 3999,
+        "developer": "2K Australia, Gearbox Software, Aspyr (Linux)",
+        "publisher": "2K, Aspyr (Linux)"
+    },
+    {
+        "appid": 262060,
+        "name": "Darkest Dungeon",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Red Hook Studios",
+        "publisher": "Red Hook Studios"
+    },
+    {
+        "appid": 264710,
+        "name": "Subnautica",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Unknown Worlds Entertainment",
+        "publisher": "Unknown Worlds Entertainment"
+    },
+    {
+        "appid": 265550,
+        "name": "Dead Rising 3 Apocalypse Edition",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Capcom Game Studio Vancouver",
+        "publisher": "Capcom"
+    },
+    {
+        "appid": 265590,
+        "name": "The Red Solstice",
+        "price_cents": 99,
+        "initialprice_cents": 999,
+        "developer": "Ironward",
+        "publisher": "Ironward"
+    },
+    {
+        "appid": 265930,
+        "name": "Goat Simulator",
+        "price_cents": 199,
+        "initialprice_cents": 999,
+        "developer": "Coffee Stain Studios",
+        "publisher": "Coffee Stain Publishing"
+    },
+    {
+        "appid": 266840,
+        "name": "Age of Mythology: Extended Edition",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "SkyBox Labs, Ensemble Studios, Forgotten Empires",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 268050,
+        "name": "The Evil Within",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Tango Gameworks",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 268500,
+        "name": "XCOM 2",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Firaxis Games, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "2K, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 268910,
+        "name": "Cuphead",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Studio MDHR Entertainment Inc.",
+        "publisher": "Studio MDHR Entertainment Inc."
+    },
+    {
+        "appid": 269210,
+        "name": "Hero Siege",
+        "price_cents": 799,
+        "initialprice_cents": 799,
+        "developer": "Panic Art Studios Ltd",
+        "publisher": "Panic Art Studios Ltd"
+    },
+    {
+        "appid": 270150,
+        "name": "RUNNING WITH RIFLES",
+        "price_cents": 374,
+        "initialprice_cents": 1499,
+        "developer": "Osumia Games",
+        "publisher": "Osumia Games"
+    },
+    {
+        "appid": 270880,
+        "name": "American Truck Simulator",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "SCS Software",
+        "publisher": "SCS Software"
+    },
+    {
+        "appid": 274170,
+        "name": "Hotline Miami 2: Wrong Number",
+        "price_cents": 224,
+        "initialprice_cents": 1499,
+        "developer": "Dennaton Games",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 274190,
+        "name": "Broforce",
+        "price_cents": 299,
+        "initialprice_cents": 1499,
+        "developer": "Free Lives",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 274940,
+        "name": "Depth",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ammobox Studios",
+        "publisher": "Ammobox Studios"
+    },
+    {
+        "appid": 275390,
+        "name": "Guacamelee! Super Turbo Championship Edition",
+        "price_cents": 374,
+        "initialprice_cents": 1499,
+        "developer": "Drinkbox Studios",
+        "publisher": "Drinkbox Studios, Kepler Ghost"
+    },
+    {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Hello Games",
+        "publisher": "Hello Games"
+    },
+    {
+        "appid": 278080,
+        "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition",
+        "price_cents": 1499,
+        "initialprice_cents": 4999,
+        "developer": "KOEI TECMO GAMES CO., LTD.",
+        "publisher": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "appid": 278360,
+        "name": "A Story About My Uncle",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Gone North Games",
+        "publisher": "Coffee Stain Publishing"
+    },
+    {
+        "appid": 279720,
+        "name": "The I of the Dragon",
+        "price_cents": 799,
+        "initialprice_cents": 799,
+        "developer": "Primal",
+        "publisher": "TopWare Interactive"
+    },
+    {
+        "appid": 280790,
+        "name": "Creativerse",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Playful Corp.",
+        "publisher": "Playful Corp."
+    },
+    {
+        "appid": 281990,
+        "name": "Stellaris",
+        "price_cents": 1499,
+        "initialprice_cents": 4999,
+        "developer": "Paradox Development Studio",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 282070,
+        "name": "This War of Mine",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "11 bit studios",
+        "publisher": "11 bit studios"
+    },
+    {
+        "appid": 282140,
+        "name": "SOMA",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Frictional Games",
+        "publisher": "Frictional Games"
+    },
+    {
+        "appid": 282440,
+        "name": "Quake Live",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 284160,
+        "name": "BeamNG.drive",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "BeamNG",
+        "publisher": "BeamNG"
+    },
+    {
+        "appid": 285190,
+        "name": "Warhammer 40,000: Dawn of War III",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Relic Entertainment, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "Relic Entertainment, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 285800,
+        "name": "Braveland",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Tortuga Team",
+        "publisher": "Tortuga Team"
+    },
+    {
+        "appid": 285900,
+        "name": "Gang Beasts",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Boneloaf, Rocket Science",
+        "publisher": "Boneloaf"
+    },
+    {
+        "appid": 286160,
+        "name": "Tabletop Simulator",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Berserk Games",
+        "publisher": "Berserk Games"
+    },
+    {
+        "appid": 286690,
+        "name": "Metro 2033 Redux",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "4A Games",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 287290,
+        "name": "Resident Evil Revelations 2",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 287390,
+        "name": "Metro: Last Light Redux",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "4A Games",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 287450,
+        "name": "Rise of Nations: Extended Edition",
+        "price_cents": 659,
+        "initialprice_cents": 1999,
+        "developer": "SkyBox Labs, Big Huge Games",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 287700,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "KONAMI",
+        "publisher": "KONAMI"
+    },
+    {
+        "appid": 289070,
+        "name": "Sid Meier’s Civilization VI",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Firaxis Games, Aspyr (Mac), Aspyr (Linux)",
+        "publisher": "2K, Aspyr (Mac), Aspyr (Linux)"
+    },
+    {
+        "appid": 289130,
+        "name": "ENDLESS Legend",
+        "price_cents": 749,
+        "initialprice_cents": 2999,
+        "developer": "AMPLITUDE Studios",
+        "publisher": "AMPLITUDE Studios"
+    },
+    {
+        "appid": 289650,
+        "name": "Assassin's Creed Unity",
+        "price_cents": 749,
+        "initialprice_cents": 2999,
+        "developer": "Ubisoft",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 291650,
+        "name": "Pillars of Eternity",
+        "price_cents": 1599,
+        "initialprice_cents": 3999,
+        "developer": "Obsidian Entertainment",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "CD PROJEKT RED",
+        "publisher": "CD PROJEKT RED"
+    },
+    {
+        "appid": 292730,
+        "name": "Call of Duty: Infinite Warfare",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Infinity Ward",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 292910,
+        "name": "Deponia: The Complete Journey",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Daedalic Entertainment",
+        "publisher": "Daedalic Entertainment"
+    },
+    {
+        "appid": 294100,
+        "name": "RimWorld",
+        "price_cents": 3499,
+        "initialprice_cents": 3499,
+        "developer": "Ludeon Studios",
+        "publisher": "Ludeon Studios"
+    },
+    {
+        "appid": 297000,
+        "name": "Heroes of Might & Magic III - HD Edition",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Dotemu",
+        "publisher": "Ubisoft Entertainment"
+    },
+    {
+        "appid": 298110,
+        "name": "Far Cry 4",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 299460,
+        "name": "Woodle Tree Adventures",
+        "price_cents": 399,
+        "initialprice_cents": 399,
+        "developer": "Fabio Ferrara",
+        "publisher": "Chubby Pixel"
+    },
+    {
+        "appid": 302510,
+        "name": "Ryse: Son of Rome",
+        "price_cents": 349,
+        "initialprice_cents": 999,
+        "developer": "Crytek",
+        "publisher": "Crytek "
+    },
+    {
+        "appid": 303390,
+        "name": "Dead Bits",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Microblast Games",
+        "publisher": "SA Industry"
+    },
+    {
+        "appid": 304240,
+        "name": "Resident Evil",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 304390,
+        "name": "FOR HONOR",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Ubisoft Montreal, Ubisoft Quebec, Ubisoft Toronto, Blue Byte",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 304430,
+        "name": "INSIDE",
+        "price_cents": 249,
+        "initialprice_cents": 2499,
+        "developer": "Playdead",
+        "publisher": "Playdead"
+    },
+    {
+        "appid": 304670,
+        "name": "Aeon Command",
+        "price_cents": 299,
+        "initialprice_cents": 299,
+        "developer": "Bat Country Games, LLC",
+        "publisher": "Bat Country Games, LLC"
+    },
+    {
+        "appid": 305620,
+        "name": "The Long Dark",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Hinterland Studio Inc.",
+        "publisher": "Hinterland Studio Inc."
+    },
+    {
+        "appid": 306130,
+        "name": "The Elder Scrolls Online",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "ZeniMax Online Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 307690,
+        "name": "Sleeping Dogs: Definitive Edition",
+        "price_cents": 299,
+        "initialprice_cents": 1999,
+        "developer": "United Front Games, Feral Interactive (Mac)",
+        "publisher": "Square Enix, Feral Interactive (Mac)"
+    },
+    {
+        "appid": 307780,
+        "name": "Mortal Kombat X",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "NetherRealm Studios, QLOC",
+        "publisher": "Warner Bros. Games, Warner Bros. Interactive Entertainment"
+    },
+    {
+        "appid": 308040,
+        "name": "Back to Bed",
+        "price_cents": 599,
+        "initialprice_cents": 599,
+        "developer": "Bedtime Digital Games",
+        "publisher": "Bedtime Digital Games"
+    },
+    {
+        "appid": 310950,
+        "name": "Street Fighter V",
+        "price_cents": 999,
+        "initialprice_cents": 1999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 311210,
+        "name": "Call of Duty: Black Ops III",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Treyarch, Aspyr (Mac)",
+        "publisher": "Activision, Aspyr (Mac)"
+    },
+    {
+        "appid": 311340,
+        "name": "METAL GEAR SOLID V: GROUND ZEROES",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "KONAMI",
+        "publisher": "KONAMI"
+    },
+    {
+        "appid": 311690,
+        "name": "Enter the Gungeon",
+        "price_cents": 299,
+        "initialprice_cents": 1499,
+        "developer": "Dodge Roll",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 311860,
+        "name": "Data Hacker: Initiation",
+        "price_cents": 199,
+        "initialprice_cents": 199,
+        "developer": "New Reality Games",
+        "publisher": "New Reality Games"
+    },
+    {
+        "appid": 312520,
+        "name": "Rain World",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Videocult",
+        "publisher": "Akupara Games"
+    },
+    {
+        "appid": 312530,
+        "name": "Duck Game",
+        "price_cents": 1299,
+        "initialprice_cents": 1299,
+        "developer": "Landon Podbielski",
+        "publisher": "CORPTRON GAMES CORP."
+    },
+    {
+        "appid": 312660,
+        "name": "Sniper Elite 4",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Rebellion",
+        "publisher": "Rebellion"
+    },
+    {
+        "appid": 314160,
+        "name": "Microsoft Flight Simulator X: Steam Edition",
+        "price_cents": 499,
+        "initialprice_cents": 2499,
+        "developer": "Microsoft Game Studios",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 319510,
+        "name": "Five Nights at Freddy's",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Scott Cawthon",
+        "publisher": "Scott Cawthon"
+    },
+    {
+        "appid": 322170,
+        "name": "Geometry Dash",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "RobTop Games",
+        "publisher": "RobTop Games"
+    },
+    {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "price_cents": 149,
+        "initialprice_cents": 1499,
+        "developer": "Klei Entertainment",
+        "publisher": "Klei Entertainment"
+    },
+    {
+        "appid": 322500,
+        "name": "SUPERHOT",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "SUPERHOT Team",
+        "publisher": "SUPERHOT Team"
+    },
+    {
+        "appid": 323470,
+        "name": "DRAGON BALL XENOVERSE",
+        "price_cents": 399,
+        "initialprice_cents": 3999,
+        "developer": "DIMPS",
+        "publisher": "BANDAI NAMCO Entertainment"
+    },
+    {
+        "appid": 323580,
+        "name": "Jotun: Valhalla Edition",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Thunder Lotus",
+        "publisher": "Thunder Lotus"
+    },
+    {
+        "appid": 323850,
+        "name": "Move or Die",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Xelu, Those Awesome Guys",
+        "publisher": "Those Awesome Guys"
+    },
+    {
+        "appid": 324800,
+        "name": "Shadow Warrior 2",
+        "price_cents": 299,
+        "initialprice_cents": 2999,
+        "developer": "Flying Wild Hog",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 325610,
+        "name": "Total War: ATTILA",
+        "price_cents": 4499,
+        "initialprice_cents": 4499,
+        "developer": "CREATIVE ASSEMBLY",
+        "publisher": "SEGA"
+    },
+    {
+        "appid": 334210,
+        "name": "Fortified",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Siege Camp",
+        "publisher": "Siege Camp"
+    },
+    {
+        "appid": 334230,
+        "name": "Town of Salem",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "BlankMediaGames",
+        "publisher": "Digital Bandidos"
+    },
+    {
+        "appid": 335300,
+        "name": "DARK SOULS II: Scholar of the First Sin",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "FromSoftware, Inc.",
+        "publisher": "Bandai Namco Entertainment, FromSoftware, Inc."
+    },
+    {
+        "appid": 337000,
+        "name": "Deus Ex: Mankind Divided",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Eidos Montreal, Feral Interactive (Linux/Mac)",
+        "publisher": "Eidos Interactive Corp., Feral Interactive (Linux/Mac)"
+    },
+    {
+        "appid": 337320,
+        "name": "Paint the Town Red",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "South East Games",
+        "publisher": "South East Games"
+    },
+    {
+        "appid": 341800,
+        "name": "Keep Talking and Nobody Explodes",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Steel Crate Games",
+        "publisher": "Steel Crate Games"
+    },
+    {
+        "appid": 343710,
+        "name": "Kholat",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "IMGN.PRO",
+        "publisher": "IMGN.PRO"
+    },
+    {
+        "appid": 346010,
+        "name": "Besiege",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Spiderling Studios",
+        "publisher": "Spiderling Studios"
+    },
+    {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC",
+        "publisher": "Studio Wildcard, Snail Games USA"
+    },
+    {
+        "appid": 349040,
+        "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "CyberConnect2 Co. Ltd.",
+        "publisher": "BANDAI NAMCO Entertainment"
+    },
+    {
+        "appid": 350640,
+        "name": "Sherlock Holmes: The Devil's Daughter",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Frogwares",
+        "publisher": "Frogwares"
+    },
+    {
+        "appid": 351940,
+        "name": "The Descendant",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Gaming Corps AB",
+        "publisher": "Microids Indie, Microids"
+    },
+    {
+        "appid": 356190,
+        "name": "Middle-earth: Shadow of War",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Monolith Productions",
+        "publisher": "WB Games"
+    },
+    {
+        "appid": 359320,
+        "name": "Elite Dangerous",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Frontier Developments",
+        "publisher": "Frontier Developments"
+    },
+    {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 360430,
+        "name": "Mafia III: Definitive Edition",
+        "price_cents": 599,
+        "initialprice_cents": 2999,
+        "developer": "Hangar 13, Aspyr (Mac)",
+        "publisher": "2K, Aspyr (Mac)"
+    },
+    {
+        "appid": 360970,
+        "name": "Heaven Forest NIGHTS",
+        "price_cents": 99,
+        "initialprice_cents": 99,
+        "developer": "Fabio Ferrara",
+        "publisher": "Chubby Pixel"
+    },
+    {
+        "appid": 361420,
+        "name": "ASTRONEER",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "System Era Softworks",
+        "publisher": "System Era Softworks"
+    },
+    {
+        "appid": 362890,
+        "name": "Black Mesa",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Crowbar Collective",
+        "publisher": "Crowbar Collective"
+    },
+    {
+        "appid": 364360,
+        "name": "Total War: WARHAMMER",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive (Linux), Feral Interactive (Mac)",
+        "publisher": "SEGA, Feral Interactive (Linux), Feral Interactive (Mac)"
+    },
+    {
+        "appid": 365450,
+        "name": "Hacknet",
+        "price_cents": 149,
+        "initialprice_cents": 999,
+        "developer": "Team Fractal Alligator",
+        "publisher": "Fellow Traveller"
+    },
+    {
+        "appid": 365590,
+        "name": "Tom Clancy’s The Division",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Massive Entertainment",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 367500,
+        "name": "Dragon's Dogma: Dark Arisen",
+        "price_cents": 479,
+        "initialprice_cents": 2999,
+        "developer": "Capcom",
+        "publisher": "Capcom"
+    },
+    {
+        "appid": 367520,
+        "name": "Hollow Knight",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Team Cherry",
+        "publisher": "Team Cherry"
+    },
+    {
+        "appid": 368260,
+        "name": "Marvel's Midnight Suns",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Firaxis Games",
+        "publisher": "2K"
+    },
+    {
+        "appid": 368500,
+        "name": "Assassin's Creed Syndicate",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Ubisoft Quebec, in collaboration with Ubisoft Annecy, Bucharest, Kiev, Montreal, Montpellier, Shanghai, Singapore, Sofia, Toronto studios",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 370910,
+        "name": "Kathy Rain",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Clifftop Games",
+        "publisher": "Raw Fury"
+    },
+    {
+        "appid": 373420,
+        "name": "Divinity: Original Sin - Enhanced Edition",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Larian Studios",
+        "publisher": "Larian Studios"
+    },
+    {
+        "appid": 374040,
+        "name": "Portal Knights",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Keen Games GmbH",
+        "publisher": "505 Games"
+    },
+    {
+        "appid": 374320,
+        "name": "DARK SOULS III",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "FromSoftware, Inc.",
+        "publisher": "FromSoftware, Inc., Bandai Namco Entertainment"
+    },
+    {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 378540,
+        "name": "The Surge",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Deck13",
+        "publisher": "Focus Entertainment"
+    },
+    {
+        "appid": 379430,
+        "name": "Kingdom Come: Deliverance",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Warhorse Studios",
+        "publisher": "Warhorse Studios, Deep Silver"
+    },
+    {
+        "appid": 379720,
+        "name": "DOOM",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Behaviour Interactive Inc.",
+        "publisher": "Behaviour Interactive Inc."
+    },
+    {
+        "appid": 383150,
+        "name": "Dead Island Definitive Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Techland",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 383870,
+        "name": "Firewatch",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Campo Santo",
+        "publisher": "Panic, Campo Santo"
+    },
+    {
+        "appid": 386940,
+        "name": "Ultimate Chicken Horse",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Clever Endeavour Games",
+        "publisher": "Clever Endeavour Games"
+    },
+    {
+        "appid": 387290,
+        "name": "Ori and the Blind Forest: Definitive Edition",
+        "price_cents": 399,
+        "initialprice_cents": 1999,
+        "developer": "Moon Studios GmbH",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 387990,
+        "name": "Scrap Mechanic",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Axolot Games",
+        "publisher": "Axolot Games"
+    },
+    {
+        "appid": 388410,
+        "name": "Darksiders II Deathinitive Edition",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Gunfire Games, Vigil Games, THQ Nordic",
+        "publisher": "THQ Nordic"
+    },
+    {
+        "appid": 389730,
+        "name": "TEKKEN 7",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "BANDAI NAMCO Studios Inc.",
+        "publisher": "BANDAI NAMCO Entertainment"
+    },
+    {
+        "appid": 391220,
+        "name": "Rise of the Tomb Raider",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Crystal Dynamics, Eidos-Montréal, Feral Interactive (Mac), Feral Interactive (Linux), Nixxes",
+        "publisher": "Crystal Dynamics, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 391540,
+        "name": "Undertale",
+        "price_cents": 249,
+        "initialprice_cents": 999,
+        "developer": "tobyfox",
+        "publisher": "tobyfox"
+    },
+    {
+        "appid": 391720,
+        "name": "Layers of Fear (2016)",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Bloober Team SA",
+        "publisher": "Bloober Team SA"
+    },
+    {
+        "appid": 392110,
+        "name": "ENDLESS Space 2",
+        "price_cents": 999,
+        "initialprice_cents": 3999,
+        "developer": "AMPLITUDE Studios",
+        "publisher": "AMPLITUDE Studios"
+    },
+    {
+        "appid": 392160,
+        "name": "X4: Foundations",
+        "price_cents": 999,
+        "initialprice_cents": 4999,
+        "developer": "Egosoft",
+        "publisher": "Egosoft"
+    },
+    {
+        "appid": 393380,
+        "name": "Squad",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Offworld",
+        "publisher": "Offworld"
+    },
+    {
+        "appid": 394360,
+        "name": "Hearts of Iron IV",
+        "price_cents": 999,
+        "initialprice_cents": 4999,
+        "developer": "Paradox Development Studio",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 394510,
+        "name": "HELLDIVERS Dive Harder Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Arrowhead Game Studios",
+        "publisher": "PlayStation Publishing LLC"
+    },
+    {
+        "appid": 395170,
+        "name": "DISTRAINT: Deluxe Edition",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Jesse Makkonen",
+        "publisher": "Jesse Makkonen"
+    },
+    {
+        "appid": 397540,
+        "name": "Borderlands 3",
+        "price_cents": 599,
+        "initialprice_cents": 5999,
+        "developer": "Gearbox Software",
+        "publisher": "2K"
+    },
+    {
+        "appid": 403640,
+        "name": "Dishonored 2",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Arkane Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 409710,
+        "name": "BioShock Remastered",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "2K Boston, 2K Australia, Blind Squirrel, Feral Interactive (Mac)",
+        "publisher": "2K, Feral Interactive (Mac)"
+    },
+    {
+        "appid": 409720,
+        "name": "BioShock 2 Remastered",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "2K Marin, 2K China, Digital Extremes, 2K Australia, Blind Squirrel, Feral Interactive (Mac)",
+        "publisher": "2K, Feral Interactive (Mac)"
+    },
+    {
+        "appid": 410320,
+        "name": "EARTH DEFENSE FORCE 4.1 The Shadow of New Despair",
+        "price_cents": 799,
+        "initialprice_cents": 1999,
+        "developer": "SANDLOT",
+        "publisher": "D3PUBLISHER"
+    },
+    {
+        "appid": 412020,
+        "name": "Metro Exodus",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "4A Games",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "ConcernedApe",
+        "publisher": "ConcernedApe"
+    },
+    {
+        "appid": 414340,
+        "name": "Hellblade: Senua's Sacrifice",
+        "price_cents": 749,
+        "initialprice_cents": 2999,
+        "developer": "Ninja Theory",
+        "publisher": "Ninja Theory, Xbox Game Studios"
+    },
+    {
+        "appid": 414700,
+        "name": "Outlast 2",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Red Barrels",
+        "publisher": "Red Barrels"
+    },
+    {
+        "appid": 417910,
+        "name": "Street Warriors Online",
+        "price_cents": 199,
+        "initialprice_cents": 199,
+        "developer": "Crazy Rocks Studios",
+        "publisher": "Crazy Rocks Studios"
+    },
+    {
+        "appid": 418070,
+        "name": "Turbo Pug",
+        "price_cents": 199,
+        "initialprice_cents": 199,
+        "developer": "Space Cat Studios, SnowFlame, Back To Basics Gaming",
+        "publisher": "Back To Basics Gaming"
+    },
+    {
+        "appid": 418240,
+        "name": "Shadow Tactics: Blades of the Shogun",
+        "price_cents": 399,
+        "initialprice_cents": 3999,
+        "developer": "Mimimi Games",
+        "publisher": "Daedalic Entertainment"
+    },
+    {
+        "appid": 418370,
+        "name": "Resident Evil 7 Biohazard",
+        "price_cents": 799,
+        "initialprice_cents": 1999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 418460,
+        "name": "Rising Storm 2: Vietnam",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Antimatter Games, Tripwire Interactive",
+        "publisher": "Tripwire Interactive"
+    },
+    {
+        "appid": 424370,
+        "name": "Wolcen: Lords of Mayhem",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "WOLCEN Studio",
+        "publisher": "WOLCEN Studio"
+    },
+    {
+        "appid": 424840,
+        "name": "Little Nightmares",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Tarsier Studios",
+        "publisher": "BANDAI NAMCO Entertainment"
+    },
+    {
+        "appid": 427520,
+        "name": "Factorio",
+        "price_cents": 3500,
+        "initialprice_cents": 3500,
+        "developer": "Wube Software LTD.",
+        "publisher": "Wube Software LTD."
+    },
+    {
+        "appid": 427730,
+        "name": "Who's Your Daddy?!",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Evil Tortilla Games",
+        "publisher": "Evil Tortilla Games"
+    },
+    {
+        "appid": 431240,
+        "name": "Golf With Your Friends",
+        "price_cents": 149,
+        "initialprice_cents": 1499,
+        "developer": "Blacklight Interactive, Team17",
+        "publisher": "Team17"
+    },
+    {
+        "appid": 431730,
+        "name": "Aseprite",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Igara Studio",
+        "publisher": "Igara Studio"
+    },
+    {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Wallpaper Engine Team",
+        "publisher": "Wallpaper Engine Team"
+    },
+    {
+        "appid": 433340,
+        "name": "Slime Rancher",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "Monomi Park",
+        "publisher": "Monomi Park"
+    },
+    {
+        "appid": 435150,
+        "name": "Divinity: Original Sin 2 - Definitive Edition",
+        "price_cents": 4499,
+        "initialprice_cents": 4499,
+        "developer": "Larian Studios",
+        "publisher": "Larian Studios"
+    },
+    {
+        "appid": 439190,
+        "name": "Stories: The Path of Destinies",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Spearhead Games",
+        "publisher": "Spearhead Games"
+    },
+    {
+        "appid": 440900,
+        "name": "Conan Exiles Enhanced",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Funcom, Inflexion Games",
+        "publisher": "Funcom"
+    },
+    {
+        "appid": 446800,
+        "name": "Transport Fever",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Urban Games",
+        "publisher": "Good Shepherd Entertainment"
+    },
+    {
+        "appid": 447020,
+        "name": "Farming Simulator 17",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "GIANTS Software",
+        "publisher": "GIANTS Software"
+    },
+    {
+        "appid": 447040,
+        "name": "Watch_Dogs 2",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Ubisoft",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 447820,
+        "name": "Day of Infamy",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "New World Interactive",
+        "publisher": "New World Interactive"
+    },
+    {
+        "appid": 448510,
+        "name": "Overcooked",
+        "price_cents": 169,
+        "initialprice_cents": 1699,
+        "developer": "Ghost Town Games Ltd.",
+        "publisher": "Team17 Digital Ltd"
+    },
+    {
+        "appid": 454650,
+        "name": "DRAGON BALL XENOVERSE 2",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "QLOC, Dimps Corporation",
+        "publisher": "Bandai Namco Entertainment"
+    },
+    {
+        "appid": 457140,
+        "name": "Oxygen Not Included",
+        "price_cents": 749,
+        "initialprice_cents": 2499,
+        "developer": "Klei Entertainment",
+        "publisher": "Klei Entertainment"
+    },
+    {
+        "appid": 460790,
+        "name": "Bayonetta",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "PlatinumGames",
+        "publisher": "SEGA"
+    },
+    {
+        "appid": 460920,
+        "name": "Steep",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Ubisoft Annecy, Ubisoft Montpellier, Ubisoft Kiev",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 460950,
+        "name": "Katana ZERO",
+        "price_cents": 899,
+        "initialprice_cents": 1499,
+        "developer": "Askiisoft",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 462780,
+        "name": "Darksiders Warmastered Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "KAIKO, Vigil Games",
+        "publisher": "THQ Nordic"
+    },
+    {
+        "appid": 464920,
+        "name": "Surviving Mars",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Haemimont Games, Abstraction",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 466560,
+        "name": "Northgard: Definitive Edition",
+        "price_cents": 3499,
+        "initialprice_cents": 3499,
+        "developer": "Shiro Games",
+        "publisher": "Shiro Games"
+    },
+    {
+        "appid": 470220,
+        "name": "UNO",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Ubisoft Entertainment",
+        "publisher": "Ubisoft Entertainment"
+    },
+    {
+        "appid": 474960,
+        "name": "Quantum Break",
+        "price_cents": 799,
+        "initialprice_cents": 3999,
+        "developer": "Remedy Entertainment",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 475150,
+        "name": "Titan Quest Anniversary Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Iron Lore Entertainment, THQ Nordic",
+        "publisher": "THQ Nordic"
+    },
+    {
+        "appid": 475550,
+        "name": "Beholder",
+        "price_cents": 139,
+        "initialprice_cents": 1399,
+        "developer": "Alawar Stargaze (Warm Lamp Games)",
+        "publisher": "Alawar"
+    },
+    {
+        "appid": 476480,
+        "name": "Heaven Forest - VR MMO",
+        "price_cents": 99,
+        "initialprice_cents": 99,
+        "developer": "Fabio Ferrara",
+        "publisher": "Chubby Pixel"
+    },
+    {
+        "appid": 476600,
+        "name": "Call of Duty: WWII",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Sledgehammer Games, Raven Software",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 477160,
+        "name": "Human Fall Flat",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "No Brakes Games",
+        "publisher": "Curve Games"
+    },
+    {
+        "appid": 485510,
+        "name": "Nioh: Complete Edition",
+        "price_cents": 749,
+        "initialprice_cents": 4999,
+        "developer": "KOEI TECMO GAMES CO., LTD.",
+        "publisher": "KOEI TECMO GAMES CO., LTD."
+    },
+    {
+        "appid": 487220,
+        "name": "Freebie",
+        "price_cents": 99,
+        "initialprice_cents": 199,
+        "developer": "Free Games Info, hyperboreanGames",
+        "publisher": "Back To Basics Gaming"
+    },
+    {
+        "appid": 488790,
+        "name": "South Park: The Fractured But Whole",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Ubisoft San Francisco",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 489830,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 491950,
+        "name": "Orwell: Keeping an Eye On You",
+        "price_cents": 249,
+        "initialprice_cents": 999,
+        "developer": "Osmotic Studios",
+        "publisher": "Daedalic Entertainment"
+    },
+    {
+        "appid": 492720,
+        "name": "Tropico 6",
+        "price_cents": 1199,
+        "initialprice_cents": 3999,
+        "developer": "Limbic Entertainment, Realmforge Studios",
+        "publisher": "Kalypso Media"
+    },
+    {
+        "appid": 493340,
+        "name": "Planet Coaster",
+        "price_cents": 4499,
+        "initialprice_cents": 4499,
+        "developer": "Frontier Developments, Aspyr (Mac)",
+        "publisher": "Frontier Developments, Aspyr (Mac)"
+    },
+    {
+        "appid": 493520,
+        "name": "GTFO",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "10 Chambers",
+        "publisher": "10 Chambers"
+    },
+    {
+        "appid": 495420,
+        "name": "State of Decay 2: Juggernaut Edition",
+        "price_cents": 599,
+        "initialprice_cents": 2999,
+        "developer": "Undead Labs",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 502500,
+        "name": "ACE COMBAT 7: SKIES UNKNOWN",
+        "price_cents": 1499,
+        "initialprice_cents": 7499,
+        "developer": "Bandai Namco Studios Inc.",
+        "publisher": "Bandai Namco Entertainment"
+    },
+    {
+        "appid": 504230,
+        "name": "Celeste",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Maddy Makes Games Inc., Extremely OK Games, Ltd.",
+        "publisher": "Maddy Makes Games Inc."
+    },
+    {
+        "appid": 508440,
+        "name": "Totally Accurate Battle Simulator",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Landfall",
+        "publisher": "Landfall"
+    },
+    {
+        "appid": 509980,
+        "name": "BIGFOOT",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "CyberLight Game Studio",
+        "publisher": "CyberLight Game Studio"
+    },
+    {
+        "appid": 510840,
+        "name": "Evolvation",
+        "price_cents": 199,
+        "initialprice_cents": 199,
+        "developer": "Eric Ruts, Jacob Kooiman",
+        "publisher": "HyperReuts"
+    },
+    {
+        "appid": 511470,
+        "name": "Glass Masquerade",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Onyx Lute",
+        "publisher": "Onyx Lute"
+    },
+    {
+        "appid": 513710,
+        "name": "SCUM",
+        "price_cents": 4499,
+        "initialprice_cents": 4499,
+        "developer": "Gamepires",
+        "publisher": "Gamepires"
+    },
+    {
+        "appid": 518790,
+        "name": "theHunter: Call of the Wild",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Expansive Worlds",
+        "publisher": "Avalanche Studios"
+    },
+    {
+        "appid": 519860,
+        "name": "DUSK",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "David Szymanski",
+        "publisher": "New Blood Interactive"
+    },
+    {
+        "appid": 524220,
+        "name": "NieR:Automata",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Square Enix, PlatinumGames Inc.",
+        "publisher": "Square Enix"
+    },
+    {
+        "appid": 526870,
+        "name": "Satisfactory",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Coffee Stain Studios",
+        "publisher": "Coffee Stain Publishing"
+    },
+    {
+        "appid": 527230,
+        "name": "For The King",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "IronOak Games",
+        "publisher": "Curve Games"
+    },
+    {
+        "appid": 527430,
+        "name": "Warhammer 40,000: Inquisitor - Martyr",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "NeocoreGames",
+        "publisher": "NeocoreGames"
+    },
+    {
+        "appid": 529340,
+        "name": "Victoria 3",
+        "price_cents": 1499,
+        "initialprice_cents": 4999,
+        "developer": "Paradox Development Studio",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 532210,
+        "name": "Life is Strange 2",
+        "price_cents": 3196,
+        "initialprice_cents": 3196,
+        "developer": "DONTNOD Entertainment, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "Square Enix, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 534380,
+        "name": "Dying Light 2 Stay Human: Reloaded Edition",
+        "price_cents": 1199,
+        "initialprice_cents": 5999,
+        "developer": "Techland",
+        "publisher": "Techland"
+    },
+    {
+        "appid": 535930,
+        "name": "Two Point Hospital",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Two Point Studios",
+        "publisher": "SEGA"
+    },
+    {
+        "appid": 544750,
+        "name": "SOULCALIBUR VI",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "BANDAI NAMCO Studios Inc., Dimps Corporation",
+        "publisher": "BANDAI NAMCO Entertainment"
+    },
+    {
+        "appid": 546560,
+        "name": "Half-Life: Alyx",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Valve",
+        "publisher": "Valve"
+    },
+    {
+        "appid": 548430,
+        "name": "Deep Rock Galactic",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Ghost Ship Games",
+        "publisher": "Coffee Stain Publishing"
+    },
+    {
+        "appid": 552100,
+        "name": "Brick Rigs",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Fluppisoft GmbH",
+        "publisher": "Fluppisoft GmbH"
+    },
+    {
+        "appid": 552500,
+        "name": "Warhammer: Vermintide 2",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Fatshark",
+        "publisher": "Fatshark"
+    },
+    {
+        "appid": 552520,
+        "name": "Far Cry 5",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Ubisoft Montreal, Red Storm, Ubisoft Shanghai, Ubisoft Toronto, Ubisoft Kiev",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 553850,
+        "name": "HELLDIVERS 2",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Arrowhead Game Studios",
+        "publisher": "PlayStation Publishing LLC"
+    },
+    {
+        "appid": 554620,
+        "name": "Life is Strange: Before the Storm",
+        "price_cents": 1699,
+        "initialprice_cents": 1699,
+        "developer": "Deck Nine, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "Square Enix, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 560130,
+        "name": "Pillars of Eternity II: Deadfire",
+        "price_cents": 1599,
+        "initialprice_cents": 3999,
+        "developer": "Obsidian Entertainment",
+        "publisher": "Versus Evil, Obsidian Entertainment, Xbox Game Studios"
+    },
+    {
+        "appid": 568220,
+        "name": "Lobotomy Corporation | Monster Management Simulation",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "ProjectMoon",
+        "publisher": "ProjectMoon"
+    },
+    {
+        "appid": 569480,
+        "name": "Kingdoms and Castles",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Lion Shield, LLC",
+        "publisher": "Lion Shield, LLC"
+    },
+    {
+        "appid": 570940,
+        "name": "DARK SOULS: REMASTERED",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "QLOC, FromSoftware, Inc.",
+        "publisher": "FromSoftware, Inc., Bandai Namco Entertainment"
+    },
+    {
+        "appid": 581320,
+        "name": "Insurgency: Sandstorm",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "New World Interactive",
+        "publisher": "Focus Entertainment"
+    },
+    {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "price_cents": 779,
+        "initialprice_cents": 2999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 582160,
+        "name": "Assassin's Creed Origins",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Ubisoft Montreal",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 582660,
+        "name": "Black Desert",
+        "price_cents": 99,
+        "initialprice_cents": 999,
+        "developer": "Pearl Abyss",
+        "publisher": "Pearl Abyss"
+    },
+    {
+        "appid": 585420,
+        "name": "Trailmakers",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Flashbulb",
+        "publisher": "Flashbulb"
+    },
+    {
+        "appid": 585690,
+        "name": "Minimalism",
+        "price_cents": 99,
+        "initialprice_cents": 99,
+        "developer": "PixelMouse",
+        "publisher": "PixelMouse"
+    },
+    {
+        "appid": 588650,
+        "name": "Dead Cells",
+        "price_cents": 1249,
+        "initialprice_cents": 2499,
+        "developer": "Motion Twin",
+        "publisher": "Motion Twin"
+    },
+    {
+        "appid": 594570,
+        "name": "Total War: WARHAMMER II",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "SEGA, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 594650,
+        "name": "Hunt: Showdown 1896",
+        "price_cents": 1199,
+        "initialprice_cents": 2999,
+        "developer": "Crytek",
+        "publisher": "Crytek"
+    },
+    {
+        "appid": 599140,
+        "name": "Graveyard Keeper",
+        "price_cents": 399,
+        "initialprice_cents": 1999,
+        "developer": "Lazy Bear Games",
+        "publisher": "tinyBuild"
+    },
+    {
+        "appid": 601150,
+        "name": "Devil May Cry 5",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 601430,
+        "name": "The Evil Within 2",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Tango Gameworks",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 602960,
+        "name": "Barotrauma",
+        "price_cents": 1749,
+        "initialprice_cents": 3499,
+        "developer": "FakeFish, Undertow Games",
+        "publisher": "Daedalic Entertainment"
+    },
+    {
+        "appid": 603850,
+        "name": "Age of History II",
+        "price_cents": 479,
+        "initialprice_cents": 599,
+        "developer": "Łukasz Jakowski",
+        "publisher": "Łukasz Jakowski Games"
+    },
+    {
+        "appid": 606150,
+        "name": "Moonlighter",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Digital Sun",
+        "publisher": "11 bit studios"
+    },
+    {
+        "appid": 606280,
+        "name": "Darksiders III",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Gunfire Games",
+        "publisher": "THQ Nordic"
+    },
+    {
+        "appid": 612880,
+        "name": "Wolfenstein II: The New Colossus",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "MachineGames",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 613010,
+        "name": "Secret in Story",
+        "price_cents": 99,
+        "initialprice_cents": 99,
+        "developer": "Naivus Luo",
+        "publisher": "Naivus Luo"
+    },
+    {
+        "appid": 613100,
+        "name": "House Flipper",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Empyrean",
+        "publisher": "Frozen District, PlayWay S.A."
+    },
+    {
+        "appid": 617290,
+        "name": "Remnant: From the Ashes",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Gunfire Games",
+        "publisher": "Arc Games, THQ Nordic"
+    },
+    {
+        "appid": 620980,
+        "name": "Beat Saber",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Beat Games",
+        "publisher": "Beat Games"
+    },
+    {
+        "appid": 621060,
+        "name": "PC Building Simulator",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Claudiu Kiss, The Irregular Corporation",
+        "publisher": "The Irregular Corporation"
+    },
+    {
+        "appid": 629520,
+        "name": "Soundpad",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Leppsoft",
+        "publisher": "Leppsoft"
+    },
+    {
+        "appid": 629730,
+        "name": "Blade and Sorcery",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "WarpFrog",
+        "publisher": "WarpFrog"
+    },
+    {
+        "appid": 629760,
+        "name": "MORDHAU",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Triternion",
+        "publisher": "Triternion"
+    },
+    {
+        "appid": 632360,
+        "name": "Risk of Rain 2",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Hopoo Games",
+        "publisher": "Gearbox Publishing"
+    },
+    {
+        "appid": 632470,
+        "name": "Disco Elysium - The Final Cut",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "ZA/UM",
+        "publisher": "ZA/UM"
+    },
+    {
+        "appid": 633230,
+        "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+        "price_cents": 999,
+        "initialprice_cents": 3999,
+        "developer": "Soleil Ltd.",
+        "publisher": "Bandai Namco Entertainment"
+    },
+    {
+        "appid": 635260,
+        "name": "CarX Drift Racing Online",
+        "price_cents": 1699,
+        "initialprice_cents": 1699,
+        "developer": "CarX Technologies, LLC",
+        "publisher": "CarX Technologies, LLC"
+    },
+    {
+        "appid": 636480,
+        "name": "Ravenfield",
+        "price_cents": 1799,
+        "initialprice_cents": 1799,
+        "developer": "SteelRaven7",
+        "publisher": "SteelRaven7"
+    },
+    {
+        "appid": 637090,
+        "name": "BATTLETECH",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Harebrained Schemes",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 637650,
+        "name": "FINAL FANTASY XV WINDOWS EDITION",
+        "price_cents": 1399,
+        "initialprice_cents": 3499,
+        "developer": "Square Enix",
+        "publisher": "Square Enix"
+    },
+    {
+        "appid": 638070,
+        "name": "Murderous Pursuits",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Blazing Griffin",
+        "publisher": "Blazing Griffin"
+    },
+    {
+        "appid": 638970,
+        "name": "Yakuza 0",
+        "price_cents": 1099,
+        "initialprice_cents": 1999,
+        "developer": "Ryu Ga Gotoku Studio",
+        "publisher": "SEGA"
+    },
+    {
+        "appid": 640590,
+        "name": "The LEGO NINJAGO Movie Video Game",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Traveller's Tales, TT Games",
+        "publisher": "Warner Bros. Interactive Entertainment"
+    },
+    {
+        "appid": 640820,
+        "name": "Pathfinder: Kingmaker — Enhanced Plus Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Owlcat Games",
+        "publisher": "Knights Peak"
+    },
+    {
+        "appid": 641990,
+        "name": "The Escapists 2",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "Team17, Mouldy Toof Studios",
+        "publisher": "Team17"
+    },
+    {
+        "appid": 644560,
+        "name": "Mirror",
+        "price_cents": 79,
+        "initialprice_cents": 199,
+        "developer": "KAGAMI WORKS",
+        "publisher": "Paradise Project"
+    },
+    {
+        "appid": 644930,
+        "name": "They Are Billions",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Numantian Games",
+        "publisher": "Numantian Games"
+    },
+    {
+        "appid": 645630,
+        "name": "Car Mechanic Simulator 2018",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Red Dot Games",
+        "publisher": "PlayWay S.A."
+    },
+    {
+        "appid": 646570,
+        "name": "Slay the Spire",
+        "price_cents": 624,
+        "initialprice_cents": 2499,
+        "developer": "Mega Crit",
+        "publisher": "Mega Crit"
+    },
+    {
+        "appid": 646910,
+        "name": "The Crew 2",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Ivory Tower",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 648350,
+        "name": "Jurassic World Evolution",
+        "price_cents": 4499,
+        "initialprice_cents": 4499,
+        "developer": "Frontier Developments",
+        "publisher": "Frontier Developments"
+    },
+    {
+        "appid": 648800,
+        "name": "Raft",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Redbeet Interactive",
+        "publisher": "Axolot Games"
+    },
+    {
+        "appid": 657200,
+        "name": "Hand Simulator",
+        "price_cents": 299,
+        "initialprice_cents": 299,
+        "developer": "HFM Games",
+        "publisher": "HFM Games"
+    },
+    {
+        "appid": 668580,
+        "name": "Atomic Heart",
+        "price_cents": 1499,
+        "initialprice_cents": 5999,
+        "developer": "Mundfish",
+        "publisher": "Focus Entertainment, 4Divinity"
+    },
+    {
+        "appid": 671860,
+        "name": "BattleBit Remastered",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "SgtOkiDoki, Vilaskis, TheLiquidHorse",
+        "publisher": "SgtOkiDoki"
+    },
+    {
+        "appid": 673130,
+        "name": "AMID EVIL",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Indefatigable",
+        "publisher": "New Blood Interactive"
+    },
+    {
+        "appid": 673950,
+        "name": "Farm Together",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Milkstone Studios",
+        "publisher": "Milkstone Studios"
+    },
+    {
+        "appid": 674940,
+        "name": "Stick Fight: The Game",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Landfall West",
+        "publisher": "Landfall"
+    },
+    {
+        "appid": 675010,
+        "name": "MudRunner",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Saber Interactive",
+        "publisher": "Focus Entertainment"
+    },
+    {
+        "appid": 678950,
+        "name": "DRAGON BALL FighterZ",
+        "price_cents": 959,
+        "initialprice_cents": 5999,
+        "developer": "Arc System Works",
+        "publisher": "Bandai Namco Entertainment"
+    },
+    {
+        "appid": 678960,
+        "name": "CODE VEIN",
+        "price_cents": 599,
+        "initialprice_cents": 5999,
+        "developer": "Bandai Namco Studios",
+        "publisher": "Bandai Namco Entertainment"
+    },
+    {
+        "appid": 680420,
+        "name": "OUTRIDERS",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "People Can Fly",
+        "publisher": "Square Enix"
+    },
+    {
+        "appid": 683320,
+        "name": "GRIS",
+        "price_cents": 299,
+        "initialprice_cents": 1499,
+        "developer": "Nomada Studio",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 686810,
+        "name": "Hell Let Loose",
+        "price_cents": 1249,
+        "initialprice_cents": 4999,
+        "developer": "Expression Games",
+        "publisher": "Team17"
+    },
+    {
+        "appid": 690790,
+        "name": "DiRT Rally 2.0",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Codemasters",
+        "publisher": "Codemasters, Electronic Arts"
+    },
+    {
+        "appid": 692850,
+        "name": "Bloodstained: Ritual of the Night",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "ArtPlay",
+        "publisher": "505 Games"
+    },
+    {
+        "appid": 699130,
+        "name": "World War Z",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Saber Interactive Inc",
+        "publisher": "Saber Interactive Inc"
+    },
+    {
+        "appid": 701160,
+        "name": "Kingdom Two Crowns",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Stumpy",
+        "publisher": "Raw Fury"
+    },
+    {
+        "appid": 703080,
+        "name": "Planet Zoo",
+        "price_cents": 4499,
+        "initialprice_cents": 4499,
+        "developer": "Frontier Developments",
+        "publisher": "Frontier Developments"
+    },
+    {
+        "appid": 704270,
+        "name": "Generation Zero",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Systemic Reaction™",
+        "publisher": "Avalanche Studios"
+    },
+    {
+        "appid": 704850,
+        "name": "Thief Simulator",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Noble Muffins",
+        "publisher": "PlayWay S.A."
+    },
+    {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "price_cents": 624,
+        "initialprice_cents": 2499,
+        "developer": "Ghost Town Games Ltd., Team17",
+        "publisher": "Team17"
+    },
+    {
+        "appid": 736220,
+        "name": "Squad 44",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Offworld",
+        "publisher": "Offworld"
+    },
+    {
+        "appid": 739630,
+        "name": "Phasmophobia",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Kinetic Games",
+        "publisher": "Kinetic Games"
+    },
+    {
+        "appid": 740130,
+        "name": "Tales of ARISE",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Bandai Namco Studios Inc.",
+        "publisher": "Bandai Namco Entertainment"
+    },
+    {
+        "appid": 747660,
+        "name": "Five Nights at Freddy's: Security Breach",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Steel Wool Studios",
+        "publisher": "ScottGames"
+    },
+    {
+        "appid": 750920,
+        "name": "Shadow of the Tomb Raider: Definitive Edition",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Eidos-Montréal, Crystal Dynamics, Nixxes, Feral Interactive (Mac), Feral interactive (Linux)",
+        "publisher": "Crystal Dynamics, Feral Interactive (Mac), Feral interactive (Linux)"
+    },
+    {
+        "appid": 752590,
+        "name": "A Plague Tale: Innocence",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Asobo Studio",
+        "publisher": "Focus Entertainment"
+    },
+    {
+        "appid": 753640,
+        "name": "Outer Wilds",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Mobius Digital",
+        "publisher": "Annapurna Interactive"
+    },
+    {
+        "appid": 774171,
+        "name": "Muse Dash",
+        "price_cents": 299,
+        "initialprice_cents": 299,
+        "developer": "peropero",
+        "publisher": "hasuhasu"
+    },
+    {
+        "appid": 774361,
+        "name": "Blasphemous",
+        "price_cents": 249,
+        "initialprice_cents": 2499,
+        "developer": "The Game Kitchen",
+        "publisher": "Team17"
+    },
+    {
+        "appid": 775500,
+        "name": "SCARLET NEXUS",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "BANDAI NAMCO Studios Inc.",
+        "publisher": "BANDAI NAMCO Entertainment"
+    },
+    {
+        "appid": 779340,
+        "name": "Total War: THREE KINGDOMS",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)",
+        "publisher": "SEGA, Feral Interactive (Mac), Feral Interactive (Linux)"
+    },
+    {
+        "appid": 780310,
+        "name": "The Riftbreaker",
+        "price_cents": 899,
+        "initialprice_cents": 2999,
+        "developer": "EXOR Studios",
+        "publisher": "EXOR Studios, Surefire.Games"
+    },
+    {
+        "appid": 782330,
+        "name": "DOOM Eternal",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "id Software",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 787860,
+        "name": "Farming Simulator 19",
+        "price_cents": 1799,
+        "initialprice_cents": 1799,
+        "developer": "Giants Software",
+        "publisher": "Giants Software"
+    },
+    {
+        "appid": 788100,
+        "name": "Neon Abyss",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "Veewo Games",
+        "publisher": "Team17, Veewo Games"
+    },
+    {
+        "appid": 794260,
+        "name": "Outward Definitive Edition",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Nine Dots Studio",
+        "publisher": "Prime Matter, Deep Silver"
+    },
+    {
+        "appid": 805550,
+        "name": "Assetto Corsa Competizione",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Kunos Simulazioni",
+        "publisher": "505 Games"
+    },
+    {
+        "appid": 812140,
+        "name": "Assassin's Creed Odyssey",
+        "price_cents": 1199,
+        "initialprice_cents": 5999,
+        "developer": "Ubisoft Quebec, Ubisoft Montreal, Ubisoft Bucharest, Ubisoft Singapore, Ubisoft Montpellier, Ubisoft Kiev, Ubisoft Shanghai",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 813780,
+        "name": "Age of Empires II: Definitive Edition",
+        "price_cents": 1224,
+        "initialprice_cents": 3499,
+        "developer": "World's Edge, Forgotten Empires, CaptureAge, Tantalus Media, Wicked Witch, Feral Interactive",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 814380,
+        "name": "Sekiro: Shadows Die Twice - GOTY Edition",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "FromSoftware, Inc.",
+        "publisher": "Activision (Excluding Japan and Asia), FromSoftware, Inc. (Japan), 方块游戏 (Asia)"
+    },
+    {
+        "appid": 815370,
+        "name": "Green Hell",
+        "price_cents": 249,
+        "initialprice_cents": 2499,
+        "developer": "Creepy Jar",
+        "publisher": "Creepy Jar"
+    },
+    {
+        "appid": 823500,
+        "name": "BONEWORKS",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Stress Level Zero",
+        "publisher": "Stress Level Zero"
+    },
+    {
+        "appid": 834910,
+        "name": "ATLAS",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Grapeshot Games, Instinct Games",
+        "publisher": "Grapeshot Games, Snail Games USA"
+    },
+    {
+        "appid": 837470,
+        "name": "Untitled Goose Game",
+        "price_cents": 799,
+        "initialprice_cents": 1999,
+        "developer": "House House",
+        "publisher": "Panic"
+    },
+    {
+        "appid": 838350,
+        "name": "The Scroll Of Taiwu",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "ConchShip Games",
+        "publisher": "ConchShip Games"
+    },
+    {
+        "appid": 848450,
+        "name": "Subnautica: Below Zero",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Unknown Worlds Entertainment",
+        "publisher": "Unknown Worlds Entertainment"
+    },
+    {
+        "appid": 851850,
+        "name": "DRAGON BALL Z: KAKAROT",
+        "price_cents": 1499,
+        "initialprice_cents": 1999,
+        "developer": "CyberConnect2 Co. Ltd.",
+        "publisher": "Bandai Namco Entertainment Inc."
+    },
+    {
+        "appid": 858820,
+        "name": "Tribes of Midgard",
+        "price_cents": 499,
+        "initialprice_cents": 1999,
+        "developer": "Norsfell",
+        "publisher": "Gearbox Publishing"
+    },
+    {
+        "appid": 870780,
+        "name": "CONTROL Ultimate Edition",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Remedy Entertainment",
+        "publisher": "Remedy Entertainment"
+    },
+    {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "Rebuilt Games",
+        "publisher": "Rebuilt Games"
+    },
+    {
+        "appid": 881020,
+        "name": "Granblue Fantasy: Relink",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Cygames, Inc.",
+        "publisher": "Cygames, Inc."
+    },
+    {
+        "appid": 881100,
+        "name": "Noita",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Nolla Games",
+        "publisher": "Nolla Games"
+    },
+    {
+        "appid": 883710,
+        "name": "Resident Evil 2",
+        "price_cents": 799,
+        "initialprice_cents": 3999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 892970,
+        "name": "Valheim",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Iron Gate AB",
+        "publisher": "Coffee Stain Publishing"
+    },
+    {
+        "appid": 899440,
+        "name": "GOD EATER 3",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "BANDAI NAMCO Studios Inc.",
+        "publisher": "BANDAI NAMCO Entertainment"
+    },
+    {
+        "appid": 899770,
+        "name": "Last Epoch",
+        "price_cents": 3499,
+        "initialprice_cents": 3499,
+        "developer": "Eleventh Hour Games",
+        "publisher": "Eleventh Hour Games"
+    },
+    {
+        "appid": 900883,
+        "name": "The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe (2009)",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Bethesda Game Studios®",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 920210,
+        "name": "LEGO Star Wars: The Skywalker Saga",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "TT Games",
+        "publisher": "Warner Bros. Games, Warner Bros. Interactive Entertainment"
+    },
+    {
+        "appid": 924970,
+        "name": "Back 4 Blood",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Turtle Rock Studios",
+        "publisher": "Warner Bros. Games"
+    },
+    {
+        "appid": 939960,
+        "name": "Far Cry New Dawn",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Ubisoft Montreal, Ubisoft Kiev, Ubisoft Shanghai",
+        "publisher": "Ubisoft"
+    },
+    {
+        "appid": 942970,
+        "name": "Unheard - Voices of Crime",
+        "price_cents": 279,
+        "initialprice_cents": 699,
+        "developer": "NEXT Studios",
+        "publisher": "NEXT Studios, 505 Games"
+    },
+    {
+        "appid": 945360,
+        "name": "Among Us",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Innersloth",
+        "publisher": "Innersloth"
+    },
+    {
+        "appid": 949230,
+        "name": "Cities: Skylines II",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Iceflake Studios, Colossal Order",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 952060,
+        "name": "Resident Evil 3",
+        "price_cents": 799,
+        "initialprice_cents": 3999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 955050,
+        "name": "Bright Memory",
+        "price_cents": 799,
+        "initialprice_cents": 799,
+        "developer": "FYQD-Studio",
+        "publisher": "FYQD-Studio, PLAYISM"
+    },
+    {
+        "appid": 960090,
+        "name": "Bloons TD 6",
+        "price_cents": 1399,
+        "initialprice_cents": 1399,
+        "developer": "Ninja Kiwi",
+        "publisher": "Ninja Kiwi"
+    },
+    {
+        "appid": 962130,
+        "name": "Grounded",
+        "price_cents": 1999,
+        "initialprice_cents": 3999,
+        "developer": "Obsidian Entertainment",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 967050,
+        "name": "Pacify",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Shawn Hitchcock",
+        "publisher": "Hitchcock Games"
+    },
+    {
+        "appid": 972660,
+        "name": "Spiritfarer: Farewell Edition",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Thunder Lotus",
+        "publisher": "Thunder Lotus"
+    },
+    {
+        "appid": 975370,
+        "name": "Dwarf Fortress",
+        "price_cents": 2399,
+        "initialprice_cents": 2999,
+        "developer": "Bay 12 Games",
+        "publisher": "Kitfox Games"
+    },
+    {
+        "appid": 976310,
+        "name": "Mortal Kombat 11",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "NetherRealm Studios, QLOC, Shiver",
+        "publisher": "Warner Bros. Games, Warner Bros. Interactive Entertainment"
+    },
+    {
+        "appid": 976730,
+        "name": "Halo: The Master Chief Collection",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "343 Industries, Splash Damage, Ruffian Games, Bungie, Saber Interactive",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 977950,
+        "name": "A Dance of Fire and Ice",
+        "price_cents": 599,
+        "initialprice_cents": 599,
+        "developer": "7th Beat Games",
+        "publisher": "7th Beat Games, indienova"
+    },
+    {
+        "appid": 979690,
+        "name": "The Ascent",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Neon Giant",
+        "publisher": "KRAFTON, Inc."
+    },
+    {
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Avalanche Software",
+        "publisher": "Warner Bros. Games"
+    },
+    {
+        "appid": 993090,
+        "name": "Lossless Scaling",
+        "price_cents": 699,
+        "initialprice_cents": 699,
+        "developer": "THS",
+        "publisher": "THS"
+    },
+    {
+        "appid": 996580,
+        "name": "Spyro Reignited Trilogy",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Toys for Bob, Iron Galaxy Studios",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 1016920,
+        "name": "Unrailed!",
+        "price_cents": 299,
+        "initialprice_cents": 1999,
+        "developer": "Indoor Astronaut",
+        "publisher": "Daedalic Entertainment"
+    },
+    {
+        "appid": 1017180,
+        "name": "The Long Drive",
+        "price_cents": 1599,
+        "initialprice_cents": 1599,
+        "developer": "Genesz",
+        "publisher": "Genesz"
+    },
+    {
+        "appid": 1029690,
+        "name": "Sniper Elite 5",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Rebellion",
+        "publisher": "Rebellion"
+    },
+    {
+        "appid": 1030830,
+        "name": "Mafia II: Definitive Edition",
+        "price_cents": 599,
+        "initialprice_cents": 2999,
+        "developer": "Hangar 13, D3T",
+        "publisher": "2K"
+    },
+    {
+        "appid": 1030840,
+        "name": "Mafia: Definitive Edition",
+        "price_cents": 599,
+        "initialprice_cents": 3999,
+        "developer": "Hangar 13",
+        "publisher": "2K"
+    },
+    {
+        "appid": 1044720,
+        "name": "Farthest Frontier",
+        "price_cents": 3499,
+        "initialprice_cents": 3499,
+        "developer": "Crate Entertainment",
+        "publisher": "Crate Entertainment"
+    },
+    {
+        "appid": 1049410,
+        "name": "Superliminal",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Pillow Castle",
+        "publisher": "Pillow Castle"
+    },
+    {
+        "appid": 1056960,
+        "name": "Wolfenstein: Youngblood",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "MachineGames, Arkane Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 1057090,
+        "name": "Ori and the Will of the Wisps",
+        "price_cents": 749,
+        "initialprice_cents": 2999,
+        "developer": "Moon Studios GmbH",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 1058020,
+        "name": "STAR WARS Battlefront (Classic, 2004)",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Pandemic Studios",
+        "publisher": "Lucasfilm, LucasArts, Disney"
+    },
+    {
+        "appid": 1061910,
+        "name": "Metal: Hellsinger",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "The Outsiders",
+        "publisher": "Funcom"
+    },
+    {
+        "appid": 1063730,
+        "name": "New World: Aeternum",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Amazon Games",
+        "publisher": "Amazon Games"
+    },
+    {
+        "appid": 1086940,
+        "name": "Baldur's Gate 3",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Larian Studios",
+        "publisher": "Larian Studios"
+    },
+    {
+        "appid": 1089090,
+        "name": "ONE PIECE: PIRATE WARRIORS 4",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Koei Tecmo",
+        "publisher": "BANDAI NAMCO Entertainment"
+    },
+    {
+        "appid": 1089980,
+        "name": "The Henry Stickmin Collection",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "PuffballsUnited",
+        "publisher": "Innersloth"
+    },
+    {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "CD PROJEKT RED",
+        "publisher": "CD PROJEKT RED"
+    },
+    {
+        "appid": 1092790,
+        "name": "Inscryption",
+        "price_cents": 799,
+        "initialprice_cents": 1999,
+        "developer": "Daniel Mullins Games",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 1094520,
+        "name": "Sands of Salzaar",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "汉家松鼠Han-Squirrel Studio",
+        "publisher": "XD"
+    },
+    {
+        "appid": 1113000,
+        "name": "Persona 4 Golden",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "ATLUS",
+        "publisher": "SEGA"
+    },
+    {
+        "appid": 1116170,
+        "name": "CyberCorp",
+        "price_cents": 899,
+        "initialprice_cents": 1499,
+        "developer": "Megame LLC",
+        "publisher": "Megame LLC"
+    },
+    {
+        "appid": 1118200,
+        "name": "People Playground",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "mestiez",
+        "publisher": "Studio Minus"
+    },
+    {
+        "appid": 1129580,
+        "name": "Medieval Dynasty",
+        "price_cents": 1749,
+        "initialprice_cents": 3499,
+        "developer": "Render Cube",
+        "publisher": "Toplitz Productions"
+    },
+    {
+        "appid": 1142710,
+        "name": "Total War: WARHAMMER III",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "CREATIVE ASSEMBLY, Feral Interactive",
+        "publisher": "SEGA, Feral Interactive"
+    },
+    {
+        "appid": 1144200,
+        "name": "Ready or Not",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "VOID Interactive",
+        "publisher": "VOID Interactive"
+    },
+    {
+        "appid": 1145350,
+        "name": "Hades II",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Supergiant Games",
+        "publisher": "Supergiant Games"
+    },
+    {
+        "appid": 1145360,
+        "name": "Hades",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Supergiant Games",
+        "publisher": "Supergiant Games"
+    },
+    {
+        "appid": 1147550,
+        "name": "Not For Broadcast",
+        "price_cents": 624,
+        "initialprice_cents": 2499,
+        "developer": "NotGames",
+        "publisher": "tinyBuild"
+    },
+    {
+        "appid": 1147560,
+        "name": "Skul: The Hero Slayer",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "SOUTHPAW GAMES",
+        "publisher": "NEOWIZ"
+    },
+    {
+        "appid": 1150690,
+        "name": "OMORI",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "OMOCAT, LLC",
+        "publisher": "OMOCAT, LLC"
+    },
+    {
+        "appid": 1151340,
+        "name": "Fallout 76",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 1151640,
+        "name": "Horizon Zero Dawn Complete Edition",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Guerrilla",
+        "publisher": "PlayStation Publishing LLC"
+    },
+    {
+        "appid": 1158310,
+        "name": "Crusader Kings III",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Paradox Development Studio",
+        "publisher": "Paradox Interactive"
+    },
+    {
+        "appid": 1167630,
+        "name": "Teardown",
+        "price_cents": 1499,
+        "initialprice_cents": 2999,
+        "developer": "Tuxedo Labs",
+        "publisher": "Tuxedo Labs"
+    },
+    {
+        "appid": 1172380,
+        "name": "STAR WARS Jedi: Fallen Order",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Respawn Entertainment",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1172620,
+        "name": "Sea of Thieves: 2026 Edition",
+        "price_cents": 1399,
+        "initialprice_cents": 3999,
+        "developer": "Rare Ltd",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Rockstar Games",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 1178830,
+        "name": "Bright Memory: Infinite",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "FYQD-Studio",
+        "publisher": "FYQD-Studio, PLAYISM"
+    },
+    {
+        "appid": 1184370,
+        "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Owlcat Games",
+        "publisher": "META Publishing, Owlcat Games"
+    },
+    {
+        "appid": 1190000,
+        "name": "Car Mechanic Simulator 2021",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Red Dot Games",
+        "publisher": "PlayWay S.A."
+    },
+    {
+        "appid": 1196590,
+        "name": "Resident Evil Village",
+        "price_cents": 999,
+        "initialprice_cents": 3999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 1203620,
+        "name": "Enshrouded",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Keen Games GmbH",
+        "publisher": "Keen Games GmbH"
+    },
+    {
+        "appid": 1211020,
+        "name": "Wobbly Life",
+        "price_cents": 1624,
+        "initialprice_cents": 2499,
+        "developer": "RubberBandGames",
+        "publisher": "RubberBandGames"
+    },
+    {
+        "appid": 1213210,
+        "name": "Command & Conquer Remastered Collection",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Petroglyph, Lemon Sky Studios",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1217060,
+        "name": "Gunfire Reborn",
+        "price_cents": 1099,
+        "initialprice_cents": 1999,
+        "developer": "Gunfire Reborn Studio",
+        "publisher": "Duoyi Games"
+    },
+    {
+        "appid": 1222140,
+        "name": "Detroit: Become Human",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Quantic Dream",
+        "publisher": "Quantic Dream"
+    },
+    {
+        "appid": 1222680,
+        "name": "Need for Speed Heat",
+        "price_cents": 6999,
+        "initialprice_cents": 6999,
+        "developer": "Ghost Games",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1222700,
+        "name": "A Way Out",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Hazelight Studios",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1229490,
+        "name": "ULTRAKILL",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Arsi \"Hakita\" Patala",
+        "publisher": "New Blood Interactive"
+    },
+    {
+        "appid": 1237950,
+        "name": "STAR WARS Battlefront II",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "DICE",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1237970,
+        "name": "Titanfall 2",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Respawn Entertainment",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1238810,
+        "name": "Battlefield V",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "DICE",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1238820,
+        "name": "Battlefield 3",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "DICE",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1238840,
+        "name": "Battlefield 1",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "DICE",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1238860,
+        "name": "Battlefield 4",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "DICE",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1245620,
+        "name": "ELDEN RING",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "FromSoftware, Inc.",
+        "publisher": "FromSoftware, Inc., Bandai Namco Entertainment"
+    },
+    {
+        "appid": 1248130,
+        "name": "Farming Simulator 22",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Giants Software",
+        "publisher": "Giants Software"
+    },
+    {
+        "appid": 1250410,
+        "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+        "price_cents": 2099,
+        "initialprice_cents": 5999,
+        "developer": "Asobo Studio",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 1259420,
+        "name": "Days Gone",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Bend Studio",
+        "publisher": "PlayStation Publishing LLC"
+    },
+    {
+        "appid": 1260320,
+        "name": "Party Animals",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Recreate Games",
+        "publisher": "Source Technology"
+    },
+    {
+        "appid": 1262350,
+        "name": "SIGNALIS",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "rose-engine",
+        "publisher": "Balor Games"
+    },
+    {
+        "appid": 1262580,
+        "name": "Need for Speed Payback",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Ghost Games",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1266680,
+        "name": "Strobophagia | Rave Horror",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Green Tile Digital",
+        "publisher": "Green Tile Digital, THQ Nordic"
+    },
+    {
+        "appid": 1272080,
+        "name": "PAYDAY 3",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Starbreeze Studios",
+        "publisher": "Starbreeze Entertainment"
+    },
+    {
+        "appid": 1274570,
+        "name": "DEVOUR",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Straight Back Games",
+        "publisher": "Straight Back Games"
+    },
+    {
+        "appid": 1277400,
+        "name": "Monster Hunter Stories 2: Wings of Ruin",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 1282100,
+        "name": "REMNANT II",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Gunfire Games",
+        "publisher": "Arc Games, THQ Nordic"
+    },
+    {
+        "appid": 1282730,
+        "name": "Loop Hero",
+        "price_cents": 299,
+        "initialprice_cents": 1499,
+        "developer": "Four Quarters",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 1284190,
+        "name": "The Planet Crafter",
+        "price_cents": 1439,
+        "initialprice_cents": 2399,
+        "developer": "Miju Games",
+        "publisher": "Miju Games"
+    },
+    {
+        "appid": 1286680,
+        "name": "Tiny Tina's Wonderlands",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Gearbox Software",
+        "publisher": "2K"
+    },
+    {
+        "appid": 1290000,
+        "name": "PowerWash Simulator",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "FuturLab",
+        "publisher": "FuturLab"
+    },
+    {
+        "appid": 1296830,
+        "name": "暖雪 Warm Snow",
+        "price_cents": 1799,
+        "initialprice_cents": 1799,
+        "developer": "BadMudStudio",
+        "publisher": "bilibili"
+    },
+    {
+        "appid": 1304930,
+        "name": "The Outlast Trials",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Red Barrels",
+        "publisher": "Red Barrels"
+    },
+    {
+        "appid": 1307550,
+        "name": "Craftopia",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Pocketpair",
+        "publisher": "Pocketpair"
+    },
+    {
+        "appid": 1313140,
+        "name": "Cult of the Lamb",
+        "price_cents": 1249,
+        "initialprice_cents": 2499,
+        "developer": "Massive Monster",
+        "publisher": "Devolver Digital"
+    },
+    {
+        "appid": 1326470,
+        "name": "Sons Of The Forest",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Endnight Games Ltd",
+        "publisher": "Newnight "
+    },
+    {
+        "appid": 1328670,
+        "name": "Mass Effect Legendary Edition",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "BioWare",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1332010,
+        "name": "Stray",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "BlueTwelve Studio",
+        "publisher": "Annapurna Interactive"
+    },
+    {
+        "appid": 1361210,
+        "name": "Warhammer 40,000: Darktide",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Fatshark",
+        "publisher": "Fatshark"
+    },
+    {
+        "appid": 1363080,
+        "name": "Manor Lords",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Slavic Magic",
+        "publisher": "Hooded Horse"
+    },
+    {
+        "appid": 1364780,
+        "name": "Street Fighter 6",
+        "price_cents": 1999,
+        "initialprice_cents": 3999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 1366540,
+        "name": "Dyson Sphere Program",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Youthcat Studio",
+        "publisher": "Gamirror Games"
+    },
+    {
+        "appid": 1366800,
+        "name": "Crosshair X",
+        "price_cents": 199,
+        "initialprice_cents": 199,
+        "developer": "CenterPoint Gaming",
+        "publisher": "CenterPoint Gaming"
+    },
+    {
+        "appid": 1371980,
+        "name": "No Rest for the Wicked",
+        "price_cents": 2799,
+        "initialprice_cents": 3999,
+        "developer": "Moon Studios GmbH",
+        "publisher": "Moon Studios GmbH"
+    },
+    {
+        "appid": 1380400,
+        "name": "Saving Grace",
+        "price_cents": 199,
+        "initialprice_cents": 199,
+        "developer": "Thomas JC Ironmonger",
+        "publisher": "Ironmonger Games"
+    },
+    {
+        "appid": 1384160,
+        "name": "GUILTY GEAR -STRIVE-",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Arc System Works",
+        "publisher": "Arc System Works"
+    },
+    {
+        "appid": 1388770,
+        "name": "Cruelty Squad",
+        "price_cents": 199,
+        "initialprice_cents": 1999,
+        "developer": "Consumer Softproducts",
+        "publisher": "Consumer Softproducts"
+    },
+    {
+        "appid": 1404210,
+        "name": "Red Dead Online",
+        "price_cents": 999,
+        "initialprice_cents": 1999,
+        "developer": "Rockstar Games",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 1426210,
+        "name": "It Takes Two",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Hazelight Studios",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1446780,
+        "name": "MONSTER HUNTER RISE",
+        "price_cents": 799,
+        "initialprice_cents": 3999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 1454400,
+        "name": "Cookie Clicker",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Orteil, DashNet",
+        "publisher": "Playsaurus"
+    },
+    {
+        "appid": 1466860,
+        "name": "Age of Empires IV: Anniversary Edition",
+        "price_cents": 1399,
+        "initialprice_cents": 3999,
+        "developer": "World's Edge, Relic Entertainment, Forgotten Empires, Climax Studios",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 1468810,
+        "name": "鬼谷八荒 Tale of Immortal",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "鬼谷工作室",
+        "publisher": "鬼谷工作室, Lightning Games"
+    },
+    {
+        "appid": 1483870,
+        "name": "Draw & Guess",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Acureus",
+        "publisher": "Acureus"
+    },
+    {
+        "appid": 1515210,
+        "name": "The Past Within",
+        "price_cents": 599,
+        "initialprice_cents": 599,
+        "developer": "Rusty Lake",
+        "publisher": "Rusty Lake"
+    },
+    {
+        "appid": 1515950,
+        "name": "Capcom Arcade Stadium",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 1517290,
+        "name": "Battlefield 2042",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "DICE",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1522820,
+        "name": "Orcs Must Die! 3",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Robot Entertainment",
+        "publisher": "Robot Entertainment"
+    },
+    {
+        "appid": 1533390,
+        "name": "Gorilla Tag",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Another Axiom Inc.",
+        "publisher": "Another Axiom Inc."
+    },
+    {
+        "appid": 1551360,
+        "name": "Forza Horizon 5",
+        "price_cents": 2999,
+        "initialprice_cents": 5999,
+        "developer": "Playground Games",
+        "publisher": "Xbox Game Studios"
+    },
+    {
+        "appid": 1557740,
+        "name": "ROUNDS",
+        "price_cents": 299,
+        "initialprice_cents": 599,
+        "developer": "Landfall",
+        "publisher": "Landfall"
+    },
+    {
+        "appid": 1562430,
+        "name": "DREDGE",
+        "price_cents": 999,
+        "initialprice_cents": 2499,
+        "developer": "Black Salt Games",
+        "publisher": "Team17"
+    },
+    {
+        "appid": 1593500,
+        "name": "God of War",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Santa Monica Studio, Jetpack Interactive",
+        "publisher": "PlayStation Publishing LLC"
+    },
+    {
+        "appid": 1599600,
+        "name": "PlateUp!",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "It's happening",
+        "publisher": "Yogscast Games, Gamersky Games"
+    },
+    {
+        "appid": 1604030,
+        "name": "V Rising",
+        "price_cents": 3499,
+        "initialprice_cents": 3499,
+        "developer": "Stunlock Studios",
+        "publisher": "Stunlock Studios"
+    },
+    {
+        "appid": 1611910,
+        "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+        "price_cents": 4499,
+        "initialprice_cents": 4499,
+        "developer": "Complex Games",
+        "publisher": "Frontier Foundry"
+    },
+    {
+        "appid": 1619450,
+        "name": "Heart of a Warrior",
+        "price_cents": 1099,
+        "initialprice_cents": 1099,
+        "developer": "Techworld Communication",
+        "publisher": "Techworld Communication "
+    },
+    {
+        "appid": 1621690,
+        "name": "Core Keeper",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Pugstorm",
+        "publisher": "Fireshine Games, bilibili"
+    },
+    {
+        "appid": 1623730,
+        "name": "Palworld",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Pocketpair",
+        "publisher": "Pocketpair"
+    },
+    {
+        "appid": 1627140,
+        "name": "Sabre Team",
+        "price_cents": 699,
+        "initialprice_cents": 699,
+        "developer": "Krisalis Software",
+        "publisher": "Ziggurat"
+    },
+    {
+        "appid": 1637320,
+        "name": "Dome Keeper",
+        "price_cents": 539,
+        "initialprice_cents": 1799,
+        "developer": "Bippinbits",
+        "publisher": "Raw Fury"
+    },
+    {
+        "appid": 1643320,
+        "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "GSC Game World",
+        "publisher": "GSC Game World (worldwide), SEGA (Japan), 4Divinity (China and South East Asia)"
+    },
+    {
+        "appid": 1659040,
+        "name": "HITMAN World of Assassination",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "IO Interactive A/S",
+        "publisher": "IO Interactive A/S"
+    },
+    {
+        "appid": 1676130,
+        "name": "Deadlink",
+        "price_cents": 2499,
+        "initialprice_cents": 2499,
+        "developer": "Gruby Entertainment",
+        "publisher": "SuperGG.com"
+    },
+    {
+        "appid": 1687950,
+        "name": "Persona 5 Royal",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "ATLUS",
+        "publisher": "SEGA"
+    },
+    {
+        "appid": 1716740,
+        "name": "Starfield",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Bethesda Game Studios",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 1755910,
+        "name": "Capcom Arcade 2nd Stadium",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Warhorse Studios",
+        "publisher": "Deep Silver"
+    },
+    {
+        "appid": 1774580,
+        "name": "STAR WARS Jedi: Survivor",
+        "price_cents": 6999,
+        "initialprice_cents": 6999,
+        "developer": "Respawn",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1778820,
+        "name": "TEKKEN 8",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Bandai Namco Studios Inc.",
+        "publisher": "Bandai Namco Entertainment"
+    },
+    {
+        "appid": 1790600,
+        "name": "DRAGON BALL: Sparking! ZERO",
+        "price_cents": 3499,
+        "initialprice_cents": 6999,
+        "developer": "Spike Chunsoft Co., Ltd.",
+        "publisher": "Bandai Namco Entertainment"
+    },
+    {
+        "appid": 1794680,
+        "name": "Vampire Survivors",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "poncle",
+        "publisher": "poncle"
+    },
+    {
+        "appid": 1817070,
+        "name": "Marvel’s Spider-Man Remastered",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Insomniac Games, Nixxes Software",
+        "publisher": "PlayStation Publishing LLC"
+    },
+    {
+        "appid": 1824220,
+        "name": "Chivalry 2",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "Torn Banner Studios",
+        "publisher": "Tripwire Presents"
+    },
+    {
+        "appid": 1832640,
+        "name": "Mirror 2: Project X",
+        "price_cents": 79,
+        "initialprice_cents": 199,
+        "developer": "KAGAMI Ⅱ WORKs",
+        "publisher": "NIJICO"
+    },
+    {
+        "appid": 1845910,
+        "name": "Dragon Age: The Veilguard",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "BioWare",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 1850570,
+        "name": "DEATH STRANDING DIRECTOR'S CUT",
+        "price_cents": 1399,
+        "initialprice_cents": 3999,
+        "developer": "KOJIMA PRODUCTIONS",
+        "publisher": " 505 Games"
+    },
+    {
+        "appid": 1868140,
+        "name": "DAVE THE DIVER",
+        "price_cents": 999,
+        "initialprice_cents": 1999,
+        "developer": "MINTROCKET",
+        "publisher": "MINTROCKET"
+    },
+    {
+        "appid": 1888160,
+        "name": "ARMORED CORE VI FIRES OF RUBICON",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "FromSoftware, Inc.",
+        "publisher": "FromSoftware, Inc., Bandai Namco Entertainment Inc."
+    },
+    {
+        "appid": 1903340,
+        "name": "Clair Obscur: Expedition 33",
+        "price_cents": 3999,
+        "initialprice_cents": 4999,
+        "developer": "Sandfall Interactive",
+        "publisher": "Kepler Interactive"
+    },
+    {
+        "appid": 1938090,
+        "name": "Call of Duty: Modern Warfare II",
+        "price_cents": 3849,
+        "initialprice_cents": 6999,
+        "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
+        "publisher": "Activision"
+    },
+    {
+        "appid": 1942280,
+        "name": "Brotato",
+        "price_cents": 299,
+        "initialprice_cents": 499,
+        "developer": "Blobfish",
+        "publisher": "Blobfish"
+    },
+    {
+        "appid": 1943950,
+        "name": "Escape the Backrooms",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Fancy Games, Blackbird Interactive",
+        "publisher": "Secret Mode"
+    },
+    {
+        "appid": 1966720,
+        "name": "Lethal Company",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "Zeekerss",
+        "publisher": "Zeekerss"
+    },
+    {
+        "appid": 1987080,
+        "name": "Inside the Backrooms",
+        "price_cents": 559,
+        "initialprice_cents": 699,
+        "developer": "MrFatcat",
+        "publisher": "MrFatcat, Dropsiick"
+    },
+    {
+        "appid": 2001120,
+        "name": "Split Fiction",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Hazelight Studios",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 2050650,
+        "name": "Resident Evil 4",
+        "price_cents": 999,
+        "initialprice_cents": 3999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 2054970,
+        "name": "Dragon's Dogma 2",
+        "price_cents": 6999,
+        "initialprice_cents": 6999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 2096610,
+        "name": "Crysis 3 Remastered",
+        "price_cents": 1349,
+        "initialprice_cents": 2999,
+        "developer": "Crytek, Saber Interactive",
+        "publisher": "Crytek"
+    },
+    {
+        "appid": 2183900,
+        "name": "Warhammer 40,000: Space Marine 2",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Saber Interactive",
+        "publisher": "Focus Entertainment"
+    },
+    {
+        "appid": 2186680,
+        "name": "Warhammer 40,000: Rogue Trader",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Owlcat Games",
+        "publisher": "Owlcat Games"
+    },
+    {
+        "appid": 2195250,
+        "name": "EA SPORTS FC 24",
+        "price_cents": 6999,
+        "initialprice_cents": 6999,
+        "developer": "EA Canada, EA Romania",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 2231450,
+        "name": "Pizza Tower",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Tour De Pizza",
+        "publisher": "Tour De Pizza"
+    },
+    {
+        "appid": 2246340,
+        "name": "Monster Hunter Wilds",
+        "price_cents": 2939,
+        "initialprice_cents": 6999,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd."
+    },
+    {
+        "appid": 2322010,
+        "name": "God of War Ragnarök",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Santa Monica Studio, Jetpack Interactive",
+        "publisher": "PlayStation Publishing LLC"
+    },
+    {
+        "appid": 2322560,
+        "name": "Love Is All Around",
+        "price_cents": 999,
+        "initialprice_cents": 999,
+        "developer": "intiny",
+        "publisher": "intiny"
+    },
+    {
+        "appid": 2344520,
+        "name": "Diablo IV",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Blizzard Entertainment, Inc.",
+        "publisher": "Blizzard Entertainment, Inc."
+    },
+    {
+        "appid": 2358720,
+        "name": "Black Myth: Wukong",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Game Science",
+        "publisher": "Game Science"
+    },
+    {
+        "appid": 2379780,
+        "name": "Balatro",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "LocalThunk",
+        "publisher": "Playstack"
+    },
+    {
+        "appid": 2399830,
+        "name": "ARK: Survival Ascended",
+        "price_cents": 4499,
+        "initialprice_cents": 4499,
+        "developer": "Studio Wildcard, Grove Street Games, Instinct Games",
+        "publisher": "Studio Wildcard, Snail Games USA"
+    },
+    {
+        "appid": 2479810,
+        "name": "Gray Zone Warfare",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "MADFINGER Games, a.s.",
+        "publisher": "MADFINGER Games, a.s."
+    },
+    {
+        "appid": 2527500,
+        "name": "MiSide",
+        "price_cents": 1499,
+        "initialprice_cents": 1499,
+        "developer": "AIHASTO",
+        "publisher": "IndieArk, Shochiku (Japan)"
+    },
+    {
+        "appid": 2552430,
+        "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Square Enix",
+        "publisher": "Square Enix"
+    },
+    {
+        "appid": 2567870,
+        "name": "Chained Together",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "Anegar Games",
+        "publisher": "Secret Mode"
+    },
+    {
+        "appid": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "price_cents": 3999,
+        "initialprice_cents": 3999,
+        "developer": "FromSoftware, Inc.",
+        "publisher": "FromSoftware, Inc., Bandai Namco Entertainment"
+    },
+    {
+        "appid": 2623190,
+        "name": "The Elder Scrolls IV: Oblivion Remastered",
+        "price_cents": 4999,
+        "initialprice_cents": 4999,
+        "developer": "Bethesda Game Studios, Virtuos",
+        "publisher": "Bethesda Softworks"
+    },
+    {
+        "appid": 2669320,
+        "name": "EA SPORTS FC 25",
+        "price_cents": 6999,
+        "initialprice_cents": 6999,
+        "developer": "EA Canada, EA Romania",
+        "publisher": "Electronic Arts"
+    },
+    {
+        "appid": 2670630,
+        "name": "Supermarket Simulator",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "Nokta Games",
+        "publisher": "Nokta Games"
+    },
+    {
+        "appid": 2680010,
+        "name": "The First Berserker: Khazan",
+        "price_cents": 5999,
+        "initialprice_cents": 5999,
+        "developer": "Neople",
+        "publisher": "NEXON"
+    },
+    {
+        "appid": 2694490,
+        "name": "Path of Exile 2",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Grinding Gear Games",
+        "publisher": "Grinding Gear Games"
+    },
+    {
+        "appid": 2835570,
+        "name": "Buckshot Roulette",
+        "price_cents": 299,
+        "initialprice_cents": 299,
+        "developer": "Mike Klubnika",
+        "publisher": "CRITICAL REFLEX"
+    },
+    {
+        "appid": 2881650,
+        "name": "Content Warning",
+        "price_cents": 799,
+        "initialprice_cents": 799,
+        "developer": "Zorro, Wilnyl, Philip, thePetHen, Skog",
+        "publisher": "Evil Landfall?"
+    },
+    {
+        "appid": 3070070,
+        "name": "TCG Card Shop Simulator",
+        "price_cents": 779,
+        "initialprice_cents": 1299,
+        "developer": "OPNeon Games",
+        "publisher": "OPNeon Games"
+    },
+    {
+        "appid": 3097560,
+        "name": "Liar's Bar",
+        "price_cents": 699,
+        "initialprice_cents": 699,
+        "developer": "Curve Animation",
+        "publisher": "Curve Animation"
+    },
+    {
+        "appid": 3146520,
+        "name": "WEBFISHING",
+        "price_cents": 499,
+        "initialprice_cents": 499,
+        "developer": "lamedeveloper",
+        "publisher": "lamedeveloper"
+    },
+    {
+        "appid": 3164500,
+        "name": "Schedule I",
+        "price_cents": 1999,
+        "initialprice_cents": 1999,
+        "developer": "TVGS",
+        "publisher": "TVGS"
+    },
+    {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "price_cents": 2999,
+        "initialprice_cents": 2999,
+        "developer": "Rockstar North",
+        "publisher": "Rockstar Games"
+    },
+    {
+        "appid": 3241660,
+        "name": "R.E.P.O.",
+        "price_cents": 699,
+        "initialprice_cents": 999,
+        "developer": "semiwork",
+        "publisher": "semiwork"
+    }
+]
