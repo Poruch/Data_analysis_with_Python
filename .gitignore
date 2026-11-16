@@ -1,0 +1,13 @@
+# Твои тяжелые и генерируемые файлы
+*.html
+*.pkl
+*.csv
+dataset/
+add_positive/
+add_negative/
+positive/
+negative/
+
+
+venv/
+env/
